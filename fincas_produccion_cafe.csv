@@ -1,0 +1,1013 @@
+ID_Finca,Municipio,Variedad,Metodo_Beneficio,Area_Hectareas,Kilos_Recolectados,Altitud_MSNM,Certificacion
+FIN-8001,Chinchiná,Cenicafé 1,Honey,3.0,4800.0,1500,Ninguna
+FIN-8002,Manizales,Cenicafé 1,Natural,5.5,2500.0,1284,Rainforest Alliance
+FIN-8003,Manizales,Cenicafé 1,Lavado Tradicional,1.5,1200.0,1959,Rainforest Alliance
+FIN-8004,Risaralda,Cenicafé 1,Lavado Tradicional,3.0,4800.0,1767,Ninguna
+FIN-8005,Chinchiná,Castillo,Natural,8.0,16000.0,1929,Fairtrade
+FIN-8006,Risaralda,Cenicafé 1,Honey,12.0,7500.0,1652,Orgánico
+FIN-8007,Anserma,Colombia,Honey,5.5,4800.0,1674,Rainforest Alliance
+FIN-8008,Manizales,Cenicafé 1,Lavado Tradicional,5.5,7500.0,1607,Rainforest Alliance
+FIN-8009,Chinchiná,Colombia,Lavado Tradicional,1.5,4800.0,1669,Orgánico
+FIN-8010,Chinchiná,Cenicafé 1,Natural,5.5,7500.0,1606,Rainforest Alliance
+FIN-8011,Risaralda,Cenicafé 1,Lavado Tradicional,5.5,2500.0,1710,Orgánico
+FIN-8012,Anserma,Geisha,Natural,12.0,16000.0,1743,Ninguna
+FIN-8013,Risaralda,Borbon Rosado,Natural,5.5,4800.0,1993,Rainforest Alliance
+FIN-8014,Manizales,Borbon Rosado,Natural,1.5,2500.0,2011,Fairtrade
+FIN-8015,Chinchiná,Cenicafé 1,Natural,3.0,4800.0,1557,Rainforest Alliance
+FIN-8016,Manizales,Colombia,Lavado Tradicional,18.5,4800.0,1519,Rainforest Alliance
+FIN-8017,Palestina,Geisha,Lavado Tradicional,3.0,4800.0,1837,Rainforest Alliance
+FIN-8018,Risaralda,Colombia,Natural,1.5,2500.0,1397,Ninguna
+FIN-8019,Manizales,Geisha,Lavado Tradicional,12.0,7500.0,1500,Fairtrade
+FIN-8020,Anserma,Borbon Rosado,Honey,5.5,2500.0,1881,Rainforest Alliance
+FIN-8021,Risaralda,Colombia,Natural,5.5,2500.0,1618,Fairtrade
+FIN-8022,Manizales,Borbon Rosado,Natural,12.0,11000.0,1714,Ninguna
+FIN-8023,Manizales,Borbon Rosado,Natural,1.5,4800.0,1475,Fairtrade
+FIN-8024,Risaralda,Geisha,Honey,3.0,2500.0,1947,Ninguna
+FIN-8025,Manizales,Geisha,Honey,1.5,2500.0,1597,Orgánico
+FIN-8026,Risaralda,Geisha,Honey,18.5,16000.0,1547,Rainforest Alliance
+FIN-8027,Anserma,Cenicafé 1,Honey,5.5,2500.0,2018,Rainforest Alliance
+FIN-8028,Manizales,Geisha,Honey,5.5,7500.0,1722,Rainforest Alliance
+FIN-8029,Chinchiná,Castillo,Lavado Tradicional,3.0,2500.0,1651,Rainforest Alliance
+FIN-8030,Chinchiná,Cenicafé 1,Natural,12.0,1200.0,1616,Ninguna
+FIN-8031,Palestina,Castillo,Natural,18.5,16000.0,1838,Orgánico
+FIN-8032,Palestina,Borbon Rosado,Natural,1.5,2500.0,1685,Ninguna
+FIN-8033,Palestina,Colombia,Honey,12.0,1200.0,1794,Fairtrade
+FIN-8034,Risaralda,Colombia,Honey,5.5,4800.0,1525,Rainforest Alliance
+FIN-8035,Chinchiná,Borbon Rosado,Natural,3.0,7500.0,1578,Orgánico
+FIN-8036,Palestina,Colombia,Natural,1.5,7500.0,1639,Fairtrade
+FIN-8037,Risaralda,Colombia,Natural,3.0,4800.0,1531,Rainforest Alliance
+FIN-8038,Manizales,Castillo,Honey,12.0,1200.0,1591,Fairtrade
+FIN-8039,Anserma,Geisha,Lavado Tradicional,18.5,1200.0,1675,Rainforest Alliance
+FIN-8040,Risaralda,Borbon Rosado,Lavado Tradicional,8.0,11000.0,1960,Fairtrade
+FIN-8041,Palestina,Cenicafé 1,Natural,3.0,2500.0,1671,Rainforest Alliance
+FIN-8042,Palestina,Colombia,Lavado Tradicional,1.5,2500.0,1595,Rainforest Alliance
+FIN-8043,Palestina,Cenicafé 1,Honey,3.0,1200.0,1328,Ninguna
+FIN-8044,Palestina,Cenicafé 1,Natural,3.0,4800.0,1733,Rainforest Alliance
+FIN-8045,Palestina,Colombia,Natural,1.5,4800.0,1863,Orgánico
+FIN-8046,Risaralda,Geisha,Honey,1.5,2500.0,1891,Ninguna
+FIN-8047,Anserma,Colombia,Lavado Tradicional,,7500.0,1590,Ninguna
+FIN-8048,Palestina,Geisha,Honey,12.0,4800.0,1336,Ninguna
+FIN-8049,Anserma,Borbon Rosado,Lavado Tradicional,3.0,2500.0,1830,Ninguna
+FIN-8050,Chinchiná,Colombia,Lavado Tradicional,1.5,4800.0,1792,Rainforest Alliance
+FIN-8051,Chinchiná,Geisha,Lavado Tradicional,3.0,7500.0,1689,Rainforest Alliance
+FIN-8052,Palestina,Colombia,Natural,5.5,2500.0,1343,Orgánico
+FIN-8053,Anserma,Castillo,Lavado Tradicional,5.5,1200.0,1327,Rainforest Alliance
+FIN-8054,Chinchiná,Castillo,Lavado Tradicional,12.0,4800.0,1261,Orgánico
+FIN-8055,Palestina,Castillo,Honey,5.5,4800.0,1274,Rainforest Alliance
+FIN-8056,Palestina,Borbon Rosado,Natural,5.5,1200.0,1418,Ninguna
+FIN-8057,Anserma,Castillo,Natural,5.5,1200.0,1423,Fairtrade
+FIN-8058,Chinchiná,Borbon Rosado,Natural,1.5,2500.0,1893,Orgánico
+FIN-8059,Manizales,Castillo,Lavado Tradicional,3.0,2500.0,1979,Rainforest Alliance
+FIN-8060,Chinchiná,Cenicafé 1,Lavado Tradicional,3.0,7500.0,1270,Rainforest Alliance
+FIN-8061,Palestina,Castillo,Natural,8.0,1200.0,1272,Ninguna
+FIN-8062,Palestina,Geisha,Lavado Tradicional,1.5,11000.0,1885,Orgánico
+FIN-8063,Palestina,Cenicafé 1,Natural,,1200.0,1360,Fairtrade
+FIN-8064,Manizales,Castillo,Natural,12.0,2500.0,1312,Fairtrade
+FIN-8065,Chinchiná,Castillo,Lavado Tradicional,1.5,2500.0,1917,Rainforest Alliance
+FIN-8066,Chinchiná,Borbon Rosado,Natural,1.5,4800.0,1943,Rainforest Alliance
+FIN-8067,Risaralda,Castillo,Honey,,1200.0,1986,Ninguna
+FIN-8068,Risaralda,Cenicafé 1,Honey,8.0,4800.0,1669,Ninguna
+FIN-8069,Risaralda,Colombia,Lavado Tradicional,12.0,7500.0,1268,Ninguna
+FIN-8070,Palestina,Castillo,Lavado Tradicional,8.0,16000.0,1922,Orgánico
+FIN-8071,Anserma,Geisha,Honey,1.5,1200.0,1837,Ninguna
+FIN-8072,Anserma,Colombia,Honey,8.0,1200.0,1875,Rainforest Alliance
+FIN-8073,Risaralda,Borbon Rosado,Lavado Tradicional,8.0,4800.0,1513,Rainforest Alliance
+FIN-8074,Manizales,Geisha,Lavado Tradicional,3.0,1200.0,1398,Rainforest Alliance
+FIN-8075,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,11000.0,1688,Rainforest Alliance
+FIN-8076,Risaralda,Cenicafé 1,Honey,5.5,2500.0,1303,Ninguna
+FIN-8077,Chinchiná,Castillo,Lavado Tradicional,12.0,4800.0,1718,Fairtrade
+FIN-8078,Risaralda,Geisha,Natural,1.5,2500.0,1857,Rainforest Alliance
+FIN-8079,Anserma,Geisha,Natural,5.5,7500.0,1832,Ninguna
+FIN-8080,Anserma,Borbon Rosado,Natural,,1200.0,1789,Fairtrade
+FIN-8081,Chinchiná,Borbon Rosado,Honey,1.5,1200.0,1315,Orgánico
+FIN-8082,Chinchiná,Castillo,Honey,,7500.0,2015,Ninguna
+FIN-8083,Risaralda,Colombia,Honey,12.0,2500.0,1494,Ninguna
+FIN-8084,Palestina,Castillo,Natural,,7500.0,1609,Rainforest Alliance
+FIN-8085,Chinchiná,Colombia,Lavado Tradicional,12.0,4800.0,1427,Orgánico
+FIN-8086,Manizales,Geisha,Lavado Tradicional,5.5,7500.0,1527,Ninguna
+FIN-8087,Palestina,Cenicafé 1,Natural,1.5,11000.0,1661,Ninguna
+FIN-8088,Chinchiná,Colombia,Natural,5.5,7500.0,1898,Fairtrade
+FIN-8089,Manizales,Colombia,Honey,3.0,4800.0,1504,Ninguna
+FIN-8090,Anserma,Cenicafé 1,Lavado Tradicional,5.5,1200.0,1655,Ninguna
+FIN-8091,Manizales,Colombia,Lavado Tradicional,3.0,16000.0,1806,Fairtrade
+FIN-8092,Manizales,Borbon Rosado,Natural,5.5,,1675,Fairtrade
+FIN-8093,Palestina,Borbon Rosado,Natural,3.0,16000.0,1940,Ninguna
+FIN-8094,Palestina,Cenicafé 1,Honey,8.0,7500.0,1844,Ninguna
+FIN-8095,Anserma,Borbon Rosado,Lavado Tradicional,8.0,7500.0,1861,Fairtrade
+FIN-8096,Risaralda,Borbon Rosado,Lavado Tradicional,8.0,1200.0,1845,Ninguna
+FIN-8097,Chinchiná,Castillo,Natural,3.0,4800.0,1584,Orgánico
+FIN-8098,Chinchiná,Castillo,Lavado Tradicional,8.0,7500.0,1312,Ninguna
+FIN-8099,Chinchiná,Cenicafé 1,Honey,8.0,4800.0,1725,Orgánico
+FIN-8100,Risaralda,Borbon Rosado,Honey,12.0,1200.0,1329,Fairtrade
+FIN-8101,Chinchiná,Colombia,Natural,1.5,1200.0,1490,Rainforest Alliance
+FIN-8102,Chinchiná,Borbon Rosado,Natural,1.5,16000.0,1558,Fairtrade
+FIN-8103,Manizales,Castillo,Honey,8.0,4800.0,2031,Rainforest Alliance
+FIN-8104,Risaralda,Cenicafé 1,Natural,,7500.0,1290,Ninguna
+FIN-8105,Manizales,Cenicafé 1,Natural,5.5,7500.0,1935,Rainforest Alliance
+FIN-8106,Manizales,Geisha,Lavado Tradicional,1.5,,1335,Orgánico
+FIN-8107,Chinchiná,Colombia,Honey,3.0,7500.0,1532,Ninguna
+FIN-8108,Risaralda,Geisha,Natural,18.5,7500.0,1754,Ninguna
+FIN-8109,Chinchiná,Borbon Rosado,Lavado Tradicional,5.5,4800.0,1608,Orgánico
+FIN-8110,Chinchiná,Castillo,Honey,3.0,1200.0,1755,Orgánico
+FIN-8111,Palestina,Cenicafé 1,Lavado Tradicional,3.0,4800.0,2014,Ninguna
+FIN-8112,Risaralda,Castillo,Honey,,7500.0,1641,Orgánico
+FIN-8113,Manizales,Colombia,Honey,1.5,7500.0,1774,Rainforest Alliance
+FIN-8114,Anserma,Castillo,Lavado Tradicional,5.5,2500.0,1754,Ninguna
+FIN-8115,Palestina,Geisha,Natural,3.0,1200.0,1287,Rainforest Alliance
+FIN-8116,Risaralda,Colombia,Natural,18.5,,1531,Fairtrade
+FIN-8117,Anserma,Castillo,Lavado Tradicional,3.0,1200.0,1763,Rainforest Alliance
+FIN-8118,Palestina,Cenicafé 1,Honey,8.0,4800.0,1915,Rainforest Alliance
+FIN-8119,Palestina,Castillo,Lavado Tradicional,3.0,7500.0,1405,Ninguna
+FIN-8120,Manizales,Castillo,Natural,12.0,2500.0,1332,Rainforest Alliance
+FIN-8121,Palestina,Borbon Rosado,Lavado Tradicional,3.0,1200.0,1863,Orgánico
+FIN-8122,Anserma,Geisha,Natural,3.0,7500.0,1264,Ninguna
+FIN-8123,Palestina,Castillo,Lavado Tradicional,1.5,1200.0,1561,Rainforest Alliance
+FIN-8124,Manizales,Colombia,Honey,3.0,1200.0,1964,Orgánico
+FIN-8125,Anserma,Borbon Rosado,Lavado Tradicional,3.0,2500.0,2026,Fairtrade
+FIN-8126,Chinchiná,Cenicafé 1,Natural,18.5,11000.0,1368,Rainforest Alliance
+FIN-8127,Palestina,Cenicafé 1,Lavado Tradicional,1.5,4800.0,1657,Rainforest Alliance
+FIN-8128,Manizales,Cenicafé 1,Honey,12.0,16000.0,1278,Rainforest Alliance
+FIN-8129,Risaralda,Cenicafé 1,Natural,3.0,4800.0,1261,Rainforest Alliance
+FIN-8130,Manizales,Borbon Rosado,Lavado Tradicional,1.5,2500.0,1411,Fairtrade
+FIN-8131,Anserma,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1579,Ninguna
+FIN-8132,Chinchiná,Geisha,Natural,5.5,4800.0,1266,Orgánico
+FIN-8133,Manizales,Castillo,Honey,1.5,7500.0,2007,Fairtrade
+FIN-8134,Manizales,Castillo,Honey,3.0,2500.0,2044,Fairtrade
+FIN-8135,Manizales,Colombia,Natural,8.0,4800.0,1849,Orgánico
+FIN-8136,Manizales,Borbon Rosado,Natural,1.5,2500.0,1590,Rainforest Alliance
+FIN-8137,Palestina,Castillo,Lavado Tradicional,3.0,2500.0,1787,Rainforest Alliance
+FIN-8138,Risaralda,Castillo,Natural,3.0,7500.0,1370,Ninguna
+FIN-8139,Risaralda,Cenicafé 1,Honey,1.5,4800.0,1700,Fairtrade
+FIN-8140,Anserma,Borbon Rosado,Natural,1.5,4800.0,1370,Ninguna
+FIN-8141,Anserma,Borbon Rosado,Honey,3.0,4800.0,1516,Fairtrade
+FIN-8142,Manizales,Geisha,Natural,3.0,2500.0,1580,Ninguna
+FIN-8143,Anserma,Colombia,Natural,5.5,4800.0,1962,Ninguna
+FIN-8144,Chinchiná,Castillo,Honey,5.5,4800.0,1844,Orgánico
+FIN-8145,Palestina,Borbon Rosado,Natural,8.0,2500.0,1578,Orgánico
+FIN-8146,Palestina,Borbon Rosado,Lavado Tradicional,12.0,2500.0,1462,Ninguna
+FIN-8147,Chinchiná,Borbon Rosado,Honey,3.0,4800.0,1967,Ninguna
+FIN-8148,Manizales,Cenicafé 1,Natural,5.5,2500.0,1994,Ninguna
+FIN-8149,Manizales,Cenicafé 1,Honey,12.0,7500.0,1320,Fairtrade
+FIN-8150,Palestina,Cenicafé 1,Natural,5.5,4800.0,1833,Rainforest Alliance
+FIN-8151,Risaralda,Colombia,Natural,12.0,,1848,Rainforest Alliance
+FIN-8152,Anserma,Castillo,Lavado Tradicional,1.5,2500.0,1397,Ninguna
+FIN-8153,Anserma,Borbon Rosado,Natural,1.5,7500.0,1967,Ninguna
+FIN-8154,Manizales,Cenicafé 1,Honey,,,1897,Rainforest Alliance
+FIN-8155,Manizales,Colombia,Natural,12.0,2500.0,1606,Rainforest Alliance
+FIN-8156,Manizales,Geisha,Lavado Tradicional,,2500.0,1435,Rainforest Alliance
+FIN-8157,Chinchiná,Castillo,Natural,8.0,4800.0,1602,Ninguna
+FIN-8158,Anserma,Geisha,Lavado Tradicional,3.0,1200.0,1498,Fairtrade
+FIN-8159,Anserma,Castillo,Natural,1.5,2500.0,1711,Ninguna
+FIN-8160,Anserma,Colombia,Lavado Tradicional,8.0,7500.0,1551,Ninguna
+FIN-8161,Chinchiná,Cenicafé 1,Lavado Tradicional,1.5,4800.0,1812,Ninguna
+FIN-8162,Manizales,Colombia,Natural,8.0,2500.0,1351,Ninguna
+FIN-8163,Chinchiná,Castillo,Honey,18.5,4800.0,1751,Orgánico
+FIN-8164,Palestina,Castillo,Natural,12.0,4800.0,1398,Rainforest Alliance
+FIN-8165,Anserma,Geisha,Honey,12.0,7500.0,2029,Fairtrade
+FIN-8166,Palestina,Castillo,Natural,5.5,11000.0,1520,Rainforest Alliance
+FIN-8167,Palestina,Borbon Rosado,Honey,1.5,7500.0,1970,Rainforest Alliance
+FIN-8168,Manizales,Geisha,Lavado Tradicional,18.5,4800.0,1665,Ninguna
+FIN-8169,Anserma,Colombia,Honey,12.0,1200.0,1909,Ninguna
+FIN-8170,Anserma,Castillo,Natural,5.5,2500.0,1294,Ninguna
+FIN-8171,Palestina,Borbon Rosado,Lavado Tradicional,3.0,1200.0,1747,Orgánico
+FIN-8172,Palestina,Borbon Rosado,Natural,3.0,4800.0,1943,Rainforest Alliance
+FIN-8173,Anserma,Geisha,Honey,8.0,4800.0,1627,Fairtrade
+FIN-8174,Palestina,Colombia,Lavado Tradicional,,7500.0,2018,Orgánico
+FIN-8175,Palestina,Borbon Rosado,Natural,5.5,,1873,Ninguna
+FIN-8176,Palestina,Borbon Rosado,Lavado Tradicional,8.0,,2049,Fairtrade
+FIN-8177,Risaralda,Castillo,Honey,12.0,1200.0,1421,Orgánico
+FIN-8178,Manizales,Cenicafé 1,Lavado Tradicional,5.5,7500.0,1581,Ninguna
+FIN-8179,Risaralda,Castillo,Lavado Tradicional,12.0,1200.0,1644,Rainforest Alliance
+FIN-8180,Anserma,Colombia,Lavado Tradicional,3.0,7500.0,1282,Ninguna
+FIN-8181,Palestina,Geisha,Lavado Tradicional,12.0,7500.0,1514,Rainforest Alliance
+FIN-8182,Risaralda,Castillo,Honey,,,1920,Ninguna
+FIN-8183,Anserma,Colombia,Natural,18.5,4800.0,1399,Rainforest Alliance
+FIN-8184,Palestina,Geisha,Honey,1.5,7500.0,1292,Ninguna
+FIN-8185,Risaralda,Cenicafé 1,Natural,8.0,11000.0,1304,Ninguna
+FIN-8186,Manizales,Castillo,Honey,1.5,1200.0,1887,Ninguna
+FIN-8187,Risaralda,Castillo,Natural,1.5,1200.0,1863,Rainforest Alliance
+FIN-8188,Manizales,Geisha,Lavado Tradicional,5.5,7500.0,1328,Orgánico
+FIN-8189,Risaralda,Castillo,Natural,1.5,2500.0,1864,Ninguna
+FIN-8190,Palestina,Castillo,Lavado Tradicional,1.5,1200.0,2042,Fairtrade
+FIN-8191,Palestina,Borbon Rosado,Honey,1.5,7500.0,1421,Rainforest Alliance
+FIN-8192,Chinchiná,Borbon Rosado,Natural,1.5,7500.0,1381,Fairtrade
+FIN-8193,Anserma,Borbon Rosado,Natural,8.0,2500.0,1884,Ninguna
+FIN-8194,Anserma,Cenicafé 1,Honey,12.0,,1754,Fairtrade
+FIN-8195,Anserma,Castillo,Natural,1.5,2500.0,2012,Orgánico
+FIN-8196,Risaralda,Borbon Rosado,Lavado Tradicional,8.0,4800.0,1707,Rainforest Alliance
+FIN-8197,Manizales,Castillo,Lavado Tradicional,3.0,2500.0,1281,Ninguna
+FIN-8198,Risaralda,Castillo,Lavado Tradicional,1.5,4800.0,1984,Fairtrade
+FIN-8199,Risaralda,Cenicafé 1,Lavado Tradicional,3.0,2500.0,1291,Fairtrade
+FIN-8200,Manizales,Cenicafé 1,Lavado Tradicional,18.5,2500.0,1533,Ninguna
+FIN-8201,Risaralda,Colombia,Honey,3.0,7500.0,1563,Orgánico
+FIN-8202,Manizales,Geisha,Natural,1.5,4800.0,1914,Orgánico
+FIN-8203,Risaralda,Geisha,Honey,5.5,7500.0,1417,Fairtrade
+FIN-8204,Chinchiná,Borbon Rosado,Honey,3.0,,1703,Fairtrade
+FIN-8205,Palestina,Colombia,Lavado Tradicional,12.0,11000.0,1869,Fairtrade
+FIN-8206,Palestina,Borbon Rosado,Natural,3.0,7500.0,1769,Rainforest Alliance
+FIN-8207,Palestina,Borbon Rosado,Lavado Tradicional,3.0,2500.0,1706,Ninguna
+FIN-8208,Palestina,Borbon Rosado,Natural,3.0,1200.0,1783,Rainforest Alliance
+FIN-8209,Anserma,Colombia,Honey,3.0,4800.0,1829,Fairtrade
+FIN-8210,Palestina,Geisha,Natural,5.5,7500.0,1540,Orgánico
+FIN-8211,Manizales,Colombia,Lavado Tradicional,12.0,4800.0,1960,Rainforest Alliance
+FIN-8212,Chinchiná,Borbon Rosado,Natural,8.0,4800.0,1419,Fairtrade
+FIN-8213,Risaralda,Castillo,Lavado Tradicional,3.0,4800.0,1509,Rainforest Alliance
+FIN-8214,Chinchiná,Colombia,Lavado Tradicional,1.5,2500.0,1690,Ninguna
+FIN-8215,Palestina,Geisha,Lavado Tradicional,8.0,4800.0,1758,Ninguna
+FIN-8216,Chinchiná,Castillo,Lavado Tradicional,1.5,4800.0,1726,Rainforest Alliance
+FIN-8217,Risaralda,Cenicafé 1,Honey,3.0,4800.0,2032,Ninguna
+FIN-8218,Anserma,Geisha,Lavado Tradicional,5.5,4800.0,2010,Rainforest Alliance
+FIN-8219,Risaralda,Cenicafé 1,Lavado Tradicional,5.5,11000.0,1358,Fairtrade
+FIN-8220,Anserma,Colombia,Natural,3.0,2500.0,1269,Fairtrade
+FIN-8221,Risaralda,Borbon Rosado,Lavado Tradicional,1.5,2500.0,1999,Orgánico
+FIN-8222,Anserma,Castillo,Honey,8.0,11000.0,1474,Rainforest Alliance
+FIN-8223,Palestina,Castillo,Lavado Tradicional,8.0,1200.0,1768,Rainforest Alliance
+FIN-8224,Palestina,Cenicafé 1,Honey,12.0,2500.0,1601,Fairtrade
+FIN-8225,Palestina,Colombia,Natural,3.0,2500.0,1852,Rainforest Alliance
+FIN-8226,Chinchiná,Colombia,Lavado Tradicional,5.5,4800.0,1994,Ninguna
+FIN-8227,Anserma,Colombia,Lavado Tradicional,8.0,7500.0,1488,Ninguna
+FIN-8228,Risaralda,Geisha,Lavado Tradicional,8.0,2500.0,1467,Orgánico
+FIN-8229,Chinchiná,Colombia,Lavado Tradicional,3.0,4800.0,1722,Rainforest Alliance
+FIN-8230,Manizales,Castillo,Lavado Tradicional,5.5,1200.0,1699,Rainforest Alliance
+FIN-8231,Chinchiná,Colombia,Natural,5.5,1200.0,1907,Ninguna
+FIN-8232,Anserma,Geisha,Natural,8.0,7500.0,1407,Fairtrade
+FIN-8233,Anserma,Geisha,Honey,3.0,4800.0,1472,Rainforest Alliance
+FIN-8234,Anserma,Cenicafé 1,Lavado Tradicional,1.5,7500.0,1578,Ninguna
+FIN-8235,Chinchiná,Cenicafé 1,Honey,3.0,1200.0,1379,Orgánico
+FIN-8236,Risaralda,Castillo,Honey,,7500.0,1437,Orgánico
+FIN-8237,Anserma,Borbon Rosado,Lavado Tradicional,12.0,7500.0,1301,Rainforest Alliance
+FIN-8238,Palestina,Geisha,Lavado Tradicional,1.5,16000.0,2030,Fairtrade
+FIN-8239,Risaralda,Castillo,Lavado Tradicional,5.5,1200.0,1933,Fairtrade
+FIN-8240,Chinchiná,Colombia,Honey,12.0,4800.0,1459,Ninguna
+FIN-8241,Risaralda,Colombia,Natural,,7500.0,1801,Rainforest Alliance
+FIN-8242,Manizales,Colombia,Natural,12.0,2500.0,1817,Rainforest Alliance
+FIN-8243,Palestina,Castillo,Honey,1.5,7500.0,1407,Rainforest Alliance
+FIN-8244,Manizales,Geisha,Lavado Tradicional,5.5,4800.0,1470,Ninguna
+FIN-8245,Manizales,Colombia,Honey,8.0,16000.0,1642,Ninguna
+FIN-8246,Chinchiná,Castillo,Lavado Tradicional,,1200.0,1577,Orgánico
+FIN-8247,Anserma,Castillo,Natural,1.5,16000.0,1617,Ninguna
+FIN-8248,Risaralda,Borbon Rosado,Natural,5.5,2500.0,1794,Rainforest Alliance
+FIN-8249,Risaralda,Geisha,Natural,3.0,2500.0,1586,Rainforest Alliance
+FIN-8250,Palestina,Castillo,Honey,5.5,4800.0,1544,Ninguna
+FIN-8251,Palestina,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1829,Ninguna
+FIN-8252,Palestina,Colombia,Natural,3.0,1200.0,1680,Rainforest Alliance
+FIN-8253,Palestina,Cenicafé 1,Lavado Tradicional,3.0,7500.0,1898,Ninguna
+FIN-8254,Manizales,Castillo,Lavado Tradicional,5.5,2500.0,1568,Rainforest Alliance
+FIN-8255,Manizales,Colombia,Honey,3.0,7500.0,1917,Ninguna
+FIN-8256,Manizales,Geisha,Lavado Tradicional,8.0,11000.0,1598,Rainforest Alliance
+FIN-8257,Manizales,Castillo,Honey,8.0,2500.0,1272,Ninguna
+FIN-8258,Manizales,Castillo,Lavado Tradicional,5.5,2500.0,1291,Ninguna
+FIN-8259,Risaralda,Castillo,Natural,5.5,7500.0,1402,Rainforest Alliance
+FIN-8260,Risaralda,Cenicafé 1,Natural,8.0,4800.0,1943,Rainforest Alliance
+FIN-8261,Chinchiná,Geisha,Honey,5.5,1200.0,1279,Rainforest Alliance
+FIN-8262,Risaralda,Cenicafé 1,Lavado Tradicional,5.5,16000.0,1981,Ninguna
+FIN-8263,Risaralda,Colombia,Natural,3.0,4800.0,1917,Ninguna
+FIN-8264,Risaralda,Colombia,Honey,1.5,4800.0,1390,Rainforest Alliance
+FIN-8265,Chinchiná,Borbon Rosado,Natural,5.5,2500.0,1324,Fairtrade
+FIN-8266,Manizales,Geisha,Lavado Tradicional,18.5,4800.0,1316,Ninguna
+FIN-8267,Chinchiná,Borbon Rosado,Natural,5.5,4800.0,1866,Ninguna
+FIN-8268,Palestina,Colombia,Lavado Tradicional,3.0,2500.0,1466,Rainforest Alliance
+FIN-8269,Palestina,Colombia,Lavado Tradicional,3.0,4800.0,1898,Fairtrade
+FIN-8270,Chinchiná,Geisha,Natural,8.0,,1623,Rainforest Alliance
+FIN-8271,Manizales,Borbon Rosado,Honey,12.0,4800.0,1636,Rainforest Alliance
+FIN-8272,Risaralda,Geisha,Honey,12.0,1200.0,1305,Rainforest Alliance
+FIN-8273,Palestina,Borbon Rosado,Natural,,4800.0,1255,Rainforest Alliance
+FIN-8274,Manizales,Cenicafé 1,Lavado Tradicional,8.0,2500.0,1276,Fairtrade
+FIN-8275,Anserma,Geisha,Lavado Tradicional,12.0,2500.0,1703,Fairtrade
+FIN-8276,Anserma,Borbon Rosado,Natural,1.5,2500.0,1389,Fairtrade
+FIN-8277,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,1200.0,1873,Fairtrade
+FIN-8278,Chinchiná,Castillo,Lavado Tradicional,1.5,4800.0,1423,Rainforest Alliance
+FIN-8279,Anserma,Castillo,Natural,5.5,4800.0,1602,Ninguna
+FIN-8280,Palestina,Colombia,Honey,3.0,2500.0,1497,Fairtrade
+FIN-8281,Risaralda,Colombia,Natural,5.5,16000.0,1821,Orgánico
+FIN-8282,Chinchiná,Castillo,Lavado Tradicional,1.5,11000.0,1577,Rainforest Alliance
+FIN-8283,Risaralda,Borbon Rosado,Honey,12.0,4800.0,1703,Fairtrade
+FIN-8284,Risaralda,Cenicafé 1,Lavado Tradicional,1.5,16000.0,1624,Fairtrade
+FIN-8285,Anserma,Colombia,Lavado Tradicional,3.0,2500.0,1921,Ninguna
+FIN-8286,Risaralda,Cenicafé 1,Honey,5.5,7500.0,1932,Fairtrade
+FIN-8287,Palestina,Borbon Rosado,Natural,1.5,1200.0,1371,Ninguna
+FIN-8288,Risaralda,Cenicafé 1,Honey,,7500.0,1648,Orgánico
+FIN-8289,Palestina,Colombia,Natural,3.0,7500.0,1565,Ninguna
+FIN-8290,Manizales,Colombia,Natural,1.5,4800.0,1951,Ninguna
+FIN-8291,Manizales,Colombia,Natural,18.5,4800.0,1829,Fairtrade
+FIN-8292,Risaralda,Cenicafé 1,Natural,5.5,4800.0,1519,Fairtrade
+FIN-8293,Chinchiná,Geisha,Honey,5.5,4800.0,1661,Fairtrade
+FIN-8294,Chinchiná,Colombia,Natural,12.0,1200.0,1811,Fairtrade
+FIN-8295,Palestina,Colombia,Lavado Tradicional,18.5,2500.0,1388,Rainforest Alliance
+FIN-8296,Chinchiná,Cenicafé 1,Natural,8.0,2500.0,1581,Ninguna
+FIN-8297,Risaralda,Geisha,Lavado Tradicional,8.0,2500.0,1969,Ninguna
+FIN-8298,Risaralda,Colombia,Natural,1.5,4800.0,1781,Ninguna
+FIN-8299,Risaralda,Borbon Rosado,Honey,5.5,1200.0,1332,Rainforest Alliance
+FIN-8300,Chinchiná,Borbon Rosado,Honey,3.0,16000.0,1332,Fairtrade
+FIN-8301,Palestina,Borbon Rosado,Honey,3.0,2500.0,1310,Ninguna
+FIN-8302,Anserma,Geisha,Natural,1.5,1200.0,1709,Orgánico
+FIN-8303,Palestina,Borbon Rosado,Honey,3.0,1200.0,1756,Orgánico
+FIN-8304,Palestina,Geisha,Lavado Tradicional,3.0,1200.0,1839,Rainforest Alliance
+FIN-8305,Manizales,Colombia,Natural,12.0,11000.0,1802,Ninguna
+FIN-8306,Anserma,Cenicafé 1,Honey,8.0,7500.0,1539,Fairtrade
+FIN-8307,Palestina,Cenicafé 1,Natural,,2500.0,1379,Ninguna
+FIN-8308,Chinchiná,Castillo,Natural,3.0,4800.0,1664,Orgánico
+FIN-8309,Palestina,Geisha,Natural,3.0,1200.0,1614,Ninguna
+FIN-8310,Risaralda,Colombia,Lavado Tradicional,3.0,7500.0,1263,Rainforest Alliance
+FIN-8311,Anserma,Geisha,Lavado Tradicional,8.0,7500.0,1886,Fairtrade
+FIN-8312,Manizales,Castillo,Natural,18.5,1200.0,1253,Fairtrade
+FIN-8313,Chinchiná,Borbon Rosado,Natural,,11000.0,1615,Ninguna
+FIN-8314,Manizales,Colombia,Honey,8.0,1200.0,1459,Ninguna
+FIN-8315,Chinchiná,Castillo,Lavado Tradicional,3.0,7500.0,1486,Fairtrade
+FIN-8316,Palestina,Castillo,Lavado Tradicional,3.0,2500.0,1410,Fairtrade
+FIN-8317,Manizales,Borbon Rosado,Natural,3.0,16000.0,1881,Ninguna
+FIN-8318,Anserma,Colombia,Lavado Tradicional,,1200.0,1767,Fairtrade
+FIN-8319,Risaralda,Cenicafé 1,Honey,8.0,2500.0,1938,Rainforest Alliance
+FIN-8320,Risaralda,Castillo,Natural,1.5,16000.0,2007,Rainforest Alliance
+FIN-8321,Palestina,Borbon Rosado,Honey,12.0,1200.0,1532,Ninguna
+FIN-8322,Manizales,Castillo,Lavado Tradicional,18.5,4800.0,1498,Rainforest Alliance
+FIN-8323,Risaralda,Borbon Rosado,Honey,5.5,2500.0,1363,Fairtrade
+FIN-8324,Anserma,Colombia,Natural,1.5,2500.0,1683,Orgánico
+FIN-8325,Anserma,Geisha,Lavado Tradicional,5.5,1200.0,1918,Fairtrade
+FIN-8326,Palestina,Castillo,Lavado Tradicional,8.0,11000.0,1777,Orgánico
+FIN-8327,Chinchiná,Geisha,Honey,5.5,2500.0,1314,Orgánico
+FIN-8328,Chinchiná,Cenicafé 1,Lavado Tradicional,8.0,1200.0,1717,Ninguna
+FIN-8329,Manizales,Cenicafé 1,Lavado Tradicional,5.5,1200.0,1802,Ninguna
+FIN-8330,Risaralda,Borbon Rosado,Honey,5.5,7500.0,1841,Fairtrade
+FIN-8331,Manizales,Geisha,Natural,5.5,1200.0,1552,Rainforest Alliance
+FIN-8332,Palestina,Borbon Rosado,Lavado Tradicional,3.0,11000.0,1320,Fairtrade
+FIN-8333,Anserma,Colombia,Lavado Tradicional,1.5,2500.0,1833,Rainforest Alliance
+FIN-8334,Risaralda,Cenicafé 1,Natural,8.0,1200.0,1851,Ninguna
+FIN-8335,Risaralda,Castillo,Natural,1.5,2500.0,1395,Fairtrade
+FIN-8336,Manizales,Castillo,Honey,18.5,2500.0,1434,Ninguna
+FIN-8337,Risaralda,Geisha,Natural,3.0,4800.0,1770,Fairtrade
+FIN-8338,Risaralda,Geisha,Lavado Tradicional,12.0,11000.0,1998,Rainforest Alliance
+FIN-8339,Risaralda,Castillo,Honey,8.0,4800.0,1335,Orgánico
+FIN-8340,Chinchiná,Castillo,Natural,12.0,4800.0,1463,Orgánico
+FIN-8341,Manizales,Geisha,Natural,1.5,2500.0,1296,Ninguna
+FIN-8342,Anserma,Colombia,Lavado Tradicional,1.5,1200.0,1596,Ninguna
+FIN-8343,Risaralda,Geisha,Honey,3.0,4800.0,1630,Ninguna
+FIN-8344,Anserma,Borbon Rosado,Natural,3.0,1200.0,1777,Fairtrade
+FIN-8345,Palestina,Colombia,Lavado Tradicional,8.0,11000.0,1954,Ninguna
+FIN-8346,Anserma,Colombia,Lavado Tradicional,3.0,16000.0,1981,Fairtrade
+FIN-8347,Risaralda,Cenicafé 1,Natural,8.0,4800.0,1667,Fairtrade
+FIN-8348,Palestina,Colombia,Lavado Tradicional,8.0,11000.0,1871,Ninguna
+FIN-8349,Risaralda,Colombia,Lavado Tradicional,8.0,1200.0,1542,Rainforest Alliance
+FIN-8350,Manizales,Colombia,Honey,3.0,2500.0,1450,Orgánico
+FIN-8351,Anserma,Castillo,Honey,12.0,1200.0,1957,Rainforest Alliance
+FIN-8352,Chinchiná,Borbon Rosado,Lavado Tradicional,8.0,1200.0,1883,Rainforest Alliance
+FIN-8353,Anserma,Borbon Rosado,Natural,3.0,7500.0,1923,Rainforest Alliance
+FIN-8354,Palestina,Cenicafé 1,Honey,12.0,1200.0,1383,Fairtrade
+FIN-8355,Risaralda,Cenicafé 1,Lavado Tradicional,3.0,2500.0,1952,Rainforest Alliance
+FIN-8356,Palestina,Geisha,Lavado Tradicional,5.5,7500.0,1852,Ninguna
+FIN-8357,Manizales,Castillo,Honey,18.5,11000.0,1968,Ninguna
+FIN-8358,Anserma,Cenicafé 1,Lavado Tradicional,1.5,2500.0,1372,Orgánico
+FIN-8359,Palestina,Cenicafé 1,Honey,18.5,7500.0,1722,Rainforest Alliance
+FIN-8360,Chinchiná,Castillo,Honey,12.0,16000.0,1998,Ninguna
+FIN-8361,Palestina,Castillo,Lavado Tradicional,3.0,7500.0,1939,Rainforest Alliance
+FIN-8362,Manizales,Castillo,Honey,5.5,4800.0,1721,Ninguna
+FIN-8363,Manizales,Borbon Rosado,Lavado Tradicional,3.0,11000.0,1631,Ninguna
+FIN-8364,Risaralda,Colombia,Honey,1.5,2500.0,1578,Ninguna
+FIN-8365,Anserma,Colombia,Natural,,4800.0,1532,Ninguna
+FIN-8366,Manizales,Castillo,Honey,8.0,4800.0,1728,Rainforest Alliance
+FIN-8367,Chinchiná,Borbon Rosado,Natural,1.5,7500.0,1563,Fairtrade
+FIN-8368,Anserma,Geisha,Honey,8.0,2500.0,1917,Ninguna
+FIN-8369,Palestina,Borbon Rosado,Lavado Tradicional,8.0,16000.0,1784,Ninguna
+FIN-8370,Palestina,Colombia,Lavado Tradicional,18.5,4800.0,1419,Ninguna
+FIN-8371,Risaralda,Geisha,Natural,3.0,4800.0,1885,Fairtrade
+FIN-8372,Risaralda,Cenicafé 1,Lavado Tradicional,12.0,1200.0,1410,Orgánico
+FIN-8373,Palestina,Cenicafé 1,Natural,3.0,7500.0,1358,Ninguna
+FIN-8374,Chinchiná,Geisha,Natural,8.0,2500.0,1268,Rainforest Alliance
+FIN-8375,Anserma,Cenicafé 1,Natural,8.0,4800.0,1547,Ninguna
+FIN-8376,Risaralda,Geisha,Natural,12.0,4800.0,1449,Fairtrade
+FIN-8377,Manizales,Castillo,Lavado Tradicional,5.5,11000.0,1508,Orgánico
+FIN-8378,Palestina,Colombia,Honey,8.0,2500.0,1255,Fairtrade
+FIN-8379,Manizales,Borbon Rosado,Natural,5.5,1200.0,1496,Rainforest Alliance
+FIN-8380,Palestina,Cenicafé 1,Honey,3.0,4800.0,1397,Rainforest Alliance
+FIN-8381,Anserma,Geisha,Natural,,,1569,Rainforest Alliance
+FIN-8382,Palestina,Colombia,Natural,3.0,7500.0,1270,Rainforest Alliance
+FIN-8383,Risaralda,Cenicafé 1,Natural,8.0,4800.0,1517,Rainforest Alliance
+FIN-8384,Chinchiná,Castillo,Honey,18.5,16000.0,1716,Rainforest Alliance
+FIN-8385,Palestina,Colombia,Lavado Tradicional,3.0,1200.0,1362,Rainforest Alliance
+FIN-8386,Anserma,Geisha,Honey,1.5,4800.0,1371,Rainforest Alliance
+FIN-8387,Anserma,Castillo,Natural,5.5,2500.0,1360,Rainforest Alliance
+FIN-8388,Palestina,Colombia,Honey,3.0,11000.0,1779,Ninguna
+FIN-8389,Risaralda,Geisha,Honey,18.5,2500.0,1988,Ninguna
+FIN-8390,Anserma,Cenicafé 1,Lavado Tradicional,1.5,4800.0,1516,Orgánico
+FIN-8391,Manizales,Colombia,Natural,1.5,2500.0,1716,Ninguna
+FIN-8392,Risaralda,Borbon Rosado,Lavado Tradicional,1.5,1200.0,1633,Rainforest Alliance
+FIN-8393,Anserma,Castillo,Natural,3.0,2500.0,1383,Rainforest Alliance
+FIN-8394,Risaralda,Geisha,Natural,,2500.0,1297,Ninguna
+FIN-8395,Risaralda,Cenicafé 1,Natural,3.0,1200.0,1274,Fairtrade
+FIN-8396,Chinchiná,Borbon Rosado,Lavado Tradicional,,2500.0,1734,Fairtrade
+FIN-8397,Palestina,Colombia,Natural,1.5,2500.0,1325,Orgánico
+FIN-8398,Manizales,Colombia,Honey,5.5,11000.0,1525,Orgánico
+FIN-8399,Palestina,Borbon Rosado,Honey,1.5,1200.0,1314,Rainforest Alliance
+FIN-8400,Risaralda,Castillo,Lavado Tradicional,8.0,11000.0,1993,Fairtrade
+FIN-8401,Manizales,Castillo,Lavado Tradicional,3.0,4800.0,1896,Rainforest Alliance
+FIN-8402,Risaralda,Borbon Rosado,Honey,1.5,11000.0,1651,Rainforest Alliance
+FIN-8403,Risaralda,Colombia,Honey,1.5,1200.0,1976,Fairtrade
+FIN-8404,Palestina,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1355,Orgánico
+FIN-8405,Manizales,Geisha,Lavado Tradicional,8.0,7500.0,1798,Fairtrade
+FIN-8406,Palestina,Borbon Rosado,Honey,3.0,4800.0,1706,Fairtrade
+FIN-8407,Palestina,Castillo,Natural,3.0,1200.0,1459,Orgánico
+FIN-8408,Palestina,Cenicafé 1,Natural,1.5,1200.0,1710,Rainforest Alliance
+FIN-8409,Manizales,Castillo,Natural,5.5,7500.0,1370,Rainforest Alliance
+FIN-8410,Manizales,Borbon Rosado,Natural,12.0,1200.0,1564,Rainforest Alliance
+FIN-8411,Chinchiná,Castillo,Honey,8.0,1200.0,1647,Rainforest Alliance
+FIN-8412,Palestina,Colombia,Honey,8.0,2500.0,1321,Rainforest Alliance
+FIN-8413,Palestina,Castillo,Natural,5.5,2500.0,1995,Ninguna
+FIN-8414,Chinchiná,Borbon Rosado,Honey,1.5,1200.0,1603,Ninguna
+FIN-8415,Palestina,Castillo,Honey,8.0,2500.0,1429,Ninguna
+FIN-8416,Risaralda,Castillo,Natural,5.5,4800.0,2041,Orgánico
+FIN-8417,Palestina,Colombia,Lavado Tradicional,3.0,11000.0,1818,Rainforest Alliance
+FIN-8418,Palestina,Geisha,Lavado Tradicional,8.0,2500.0,1982,Ninguna
+FIN-8419,Chinchiná,Colombia,Lavado Tradicional,1.5,4800.0,1777,Fairtrade
+FIN-8420,Anserma,Castillo,Natural,,4800.0,1742,Rainforest Alliance
+FIN-8421,Palestina,Colombia,Natural,1.5,,2009,Orgánico
+FIN-8422,Palestina,Colombia,Lavado Tradicional,3.0,7500.0,1831,Fairtrade
+FIN-8423,Manizales,Borbon Rosado,Natural,18.5,2500.0,1982,Rainforest Alliance
+FIN-8424,Risaralda,Borbon Rosado,Natural,3.0,7500.0,1257,Ninguna
+FIN-8425,Palestina,Colombia,Honey,3.0,4800.0,1600,Fairtrade
+FIN-8426,Anserma,Colombia,Lavado Tradicional,5.5,7500.0,1601,Ninguna
+FIN-8427,Chinchiná,Cenicafé 1,Natural,5.5,4800.0,1972,Ninguna
+FIN-8428,Anserma,Castillo,Natural,3.0,7500.0,1378,Ninguna
+FIN-8429,Manizales,Borbon Rosado,Natural,8.0,2500.0,1927,Orgánico
+FIN-8430,Risaralda,Castillo,Natural,8.0,2500.0,1927,Rainforest Alliance
+FIN-8431,Chinchiná,Castillo,Natural,3.0,2500.0,1277,Rainforest Alliance
+FIN-8432,Manizales,Castillo,Lavado Tradicional,1.5,1200.0,1929,Ninguna
+FIN-8433,Anserma,Castillo,Honey,12.0,4800.0,1408,Rainforest Alliance
+FIN-8434,Palestina,Borbon Rosado,Natural,5.5,7500.0,1896,Ninguna
+FIN-8435,Chinchiná,Geisha,Honey,12.0,1200.0,1427,Orgánico
+FIN-8436,Palestina,Cenicafé 1,Lavado Tradicional,18.5,1200.0,1455,Fairtrade
+FIN-8437,Chinchiná,Cenicafé 1,Lavado Tradicional,8.0,16000.0,1266,Ninguna
+FIN-8438,Anserma,Colombia,Honey,5.5,2500.0,1396,Fairtrade
+FIN-8439,Manizales,Colombia,Honey,1.5,7500.0,1324,Orgánico
+FIN-8440,Palestina,Castillo,Honey,8.0,,1457,Ninguna
+FIN-8441,Palestina,Castillo,Honey,3.0,4800.0,1315,Orgánico
+FIN-8442,Risaralda,Cenicafé 1,Honey,18.5,4800.0,1414,Rainforest Alliance
+FIN-8443,Anserma,Colombia,Lavado Tradicional,3.0,4800.0,1682,Ninguna
+FIN-8444,Chinchiná,Castillo,Lavado Tradicional,12.0,7500.0,1596,Orgánico
+FIN-8445,Risaralda,Borbon Rosado,Lavado Tradicional,5.5,2500.0,2019,Rainforest Alliance
+FIN-8446,Chinchiná,Cenicafé 1,Honey,3.0,4800.0,1871,Rainforest Alliance
+FIN-8447,Anserma,Castillo,Honey,8.0,7500.0,1568,Rainforest Alliance
+FIN-8448,Risaralda,Borbon Rosado,Lavado Tradicional,,4800.0,1542,Ninguna
+FIN-8449,Manizales,Colombia,Honey,12.0,1200.0,1411,Ninguna
+FIN-8450,Chinchiná,Borbon Rosado,Natural,8.0,1200.0,1262,Orgánico
+FIN-8451,Risaralda,Castillo,Lavado Tradicional,12.0,2500.0,1661,Orgánico
+FIN-8452,Palestina,Geisha,Lavado Tradicional,12.0,7500.0,1853,Rainforest Alliance
+FIN-8453,Palestina,Colombia,Honey,1.5,2500.0,1534,Fairtrade
+FIN-8454,Chinchiná,Geisha,Natural,8.0,4800.0,1704,Fairtrade
+FIN-8455,Manizales,Castillo,Honey,1.5,7500.0,1447,Fairtrade
+FIN-8456,Chinchiná,Borbon Rosado,Honey,5.5,2500.0,1447,Ninguna
+FIN-8457,Palestina,Cenicafé 1,Lavado Tradicional,1.5,16000.0,1484,Ninguna
+FIN-8458,Palestina,Castillo,Lavado Tradicional,8.0,2500.0,1493,Rainforest Alliance
+FIN-8459,Risaralda,Cenicafé 1,Natural,5.5,2500.0,2042,Fairtrade
+FIN-8460,Risaralda,Castillo,Honey,1.5,1200.0,1459,Rainforest Alliance
+FIN-8461,Palestina,Colombia,Natural,5.5,2500.0,1576,Ninguna
+FIN-8462,Risaralda,Colombia,Honey,1.5,2500.0,1971,Ninguna
+FIN-8463,Palestina,Borbon Rosado,Honey,8.0,7500.0,1337,Fairtrade
+FIN-8464,Manizales,Colombia,Natural,12.0,2500.0,1450,Ninguna
+FIN-8465,Anserma,Cenicafé 1,Natural,3.0,4800.0,1948,Ninguna
+FIN-8466,Risaralda,Colombia,Lavado Tradicional,1.5,7500.0,1636,Ninguna
+FIN-8467,Risaralda,Borbon Rosado,Honey,3.0,,1819,Fairtrade
+FIN-8468,Palestina,Borbon Rosado,Honey,8.0,4800.0,1747,Fairtrade
+FIN-8469,Risaralda,Borbon Rosado,Natural,18.5,4800.0,1893,Fairtrade
+FIN-8470,Chinchiná,Colombia,Natural,18.5,2500.0,1429,Rainforest Alliance
+FIN-8471,Manizales,Borbon Rosado,Honey,5.5,,2003,Ninguna
+FIN-8472,Palestina,Geisha,Natural,5.5,2500.0,1474,Ninguna
+FIN-8473,Palestina,Geisha,Honey,5.5,11000.0,1988,Fairtrade
+FIN-8474,Chinchiná,Castillo,Lavado Tradicional,8.0,2500.0,2049,Fairtrade
+FIN-8475,Palestina,Colombia,Honey,1.5,1200.0,1286,Fairtrade
+FIN-8476,Chinchiná,Borbon Rosado,Honey,1.5,1200.0,1910,Rainforest Alliance
+FIN-8477,Manizales,Cenicafé 1,Natural,12.0,7500.0,1934,Ninguna
+FIN-8478,Palestina,Castillo,Natural,5.5,1200.0,1435,Ninguna
+FIN-8479,Manizales,Geisha,Honey,8.0,16000.0,1341,Fairtrade
+FIN-8480,Palestina,Borbon Rosado,Natural,3.0,1200.0,1461,Ninguna
+FIN-8481,Anserma,Colombia,Lavado Tradicional,8.0,1200.0,1859,Fairtrade
+FIN-8482,Manizales,Castillo,Natural,8.0,4800.0,1927,Ninguna
+FIN-8483,Chinchiná,Geisha,Lavado Tradicional,8.0,4800.0,1820,Fairtrade
+FIN-8484,Risaralda,Colombia,Lavado Tradicional,12.0,4800.0,1642,Orgánico
+FIN-8485,Palestina,Castillo,Honey,1.5,,1356,Ninguna
+FIN-8486,Palestina,Castillo,Lavado Tradicional,3.0,4800.0,2025,Orgánico
+FIN-8487,Palestina,Castillo,Honey,,4800.0,1329,Rainforest Alliance
+FIN-8488,Risaralda,Colombia,Honey,12.0,1200.0,1407,Fairtrade
+FIN-8489,Risaralda,Colombia,Lavado Tradicional,12.0,2500.0,1393,Ninguna
+FIN-8490,Anserma,Borbon Rosado,Honey,3.0,11000.0,1516,Rainforest Alliance
+FIN-8491,Chinchiná,Geisha,Honey,5.5,4800.0,1800,Rainforest Alliance
+FIN-8492,Risaralda,Castillo,Honey,1.5,11000.0,1529,Ninguna
+FIN-8493,Risaralda,Geisha,Lavado Tradicional,8.0,2500.0,1499,Rainforest Alliance
+FIN-8494,Palestina,Borbon Rosado,Lavado Tradicional,12.0,2500.0,1939,Fairtrade
+FIN-8495,Chinchiná,Cenicafé 1,Honey,5.5,1200.0,1421,Ninguna
+FIN-8496,Chinchiná,Cenicafé 1,Natural,5.5,7500.0,1530,Rainforest Alliance
+FIN-8497,Palestina,Colombia,Lavado Tradicional,3.0,1200.0,2012,Fairtrade
+FIN-8498,Palestina,Geisha,Lavado Tradicional,18.5,2500.0,1272,Ninguna
+FIN-8499,Manizales,Castillo,Lavado Tradicional,5.5,4800.0,1927,Fairtrade
+FIN-8500,Anserma,Cenicafé 1,Lavado Tradicional,3.0,1200.0,1659,Ninguna
+FIN-8501,Palestina,Geisha,Honey,12.0,4800.0,1403,Ninguna
+FIN-8502,Risaralda,Castillo,Lavado Tradicional,18.5,2500.0,2038,Orgánico
+FIN-8503,Anserma,Colombia,Honey,1.5,2500.0,1373,Fairtrade
+FIN-8504,Risaralda,Castillo,Honey,1.5,4800.0,1302,Fairtrade
+FIN-8505,Palestina,Geisha,Natural,18.5,7500.0,1528,Orgánico
+FIN-8506,Manizales,Castillo,Lavado Tradicional,5.5,2500.0,1816,Orgánico
+FIN-8507,Anserma,Castillo,Lavado Tradicional,3.0,2500.0,1545,Fairtrade
+FIN-8508,Manizales,Borbon Rosado,Lavado Tradicional,1.5,4800.0,1539,Ninguna
+FIN-8509,Anserma,Colombia,Honey,1.5,4800.0,1758,Rainforest Alliance
+FIN-8510,Risaralda,Geisha,Honey,12.0,2500.0,1523,Ninguna
+FIN-8511,Risaralda,Geisha,Honey,3.0,7500.0,1331,Ninguna
+FIN-8512,Manizales,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1567,Rainforest Alliance
+FIN-8513,Palestina,Castillo,Lavado Tradicional,3.0,11000.0,1334,Ninguna
+FIN-8514,Anserma,Borbon Rosado,Lavado Tradicional,5.5,4800.0,1580,Fairtrade
+FIN-8515,Anserma,Borbon Rosado,Lavado Tradicional,8.0,2500.0,1321,Fairtrade
+FIN-8516,Anserma,Borbon Rosado,Honey,8.0,2500.0,1430,Ninguna
+FIN-8517,Anserma,Geisha,Lavado Tradicional,12.0,16000.0,1596,Ninguna
+FIN-8518,Palestina,Cenicafé 1,Lavado Tradicional,1.5,1200.0,1902,Rainforest Alliance
+FIN-8519,Manizales,Castillo,Lavado Tradicional,1.5,4800.0,1826,Orgánico
+FIN-8520,Manizales,Borbon Rosado,Lavado Tradicional,5.5,7500.0,1935,Rainforest Alliance
+FIN-8521,Risaralda,Cenicafé 1,Honey,5.5,1200.0,1493,Rainforest Alliance
+FIN-8522,Risaralda,Cenicafé 1,Natural,3.0,7500.0,2005,Rainforest Alliance
+FIN-8523,Risaralda,Borbon Rosado,Natural,3.0,11000.0,1551,Orgánico
+FIN-8524,Chinchiná,Cenicafé 1,Honey,1.5,4800.0,1334,Fairtrade
+FIN-8525,Chinchiná,Geisha,Honey,5.5,4800.0,1587,Orgánico
+FIN-8526,Manizales,Geisha,Lavado Tradicional,5.5,4800.0,1870,Ninguna
+FIN-8527,Manizales,Cenicafé 1,Natural,3.0,4800.0,1781,Ninguna
+FIN-8528,Chinchiná,Cenicafé 1,Natural,18.5,2500.0,1801,Fairtrade
+FIN-8529,Manizales,Borbon Rosado,Honey,5.5,7500.0,1505,Rainforest Alliance
+FIN-8530,Manizales,Colombia,Honey,5.5,,1835,Ninguna
+FIN-8531,Chinchiná,Borbon Rosado,Honey,3.0,4800.0,1781,Fairtrade
+FIN-8532,Palestina,Borbon Rosado,Honey,1.5,11000.0,1664,Ninguna
+FIN-8533,Risaralda,Borbon Rosado,Honey,,4800.0,1722,Orgánico
+FIN-8534,Manizales,Borbon Rosado,Natural,8.0,7500.0,1847,Rainforest Alliance
+FIN-8535,Anserma,Colombia,Honey,8.0,7500.0,1551,Fairtrade
+FIN-8536,Palestina,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1567,Orgánico
+FIN-8537,Risaralda,Colombia,Natural,1.5,11000.0,1730,Rainforest Alliance
+FIN-8538,Chinchiná,Castillo,Lavado Tradicional,5.5,1200.0,1808,Orgánico
+FIN-8539,Manizales,Borbon Rosado,Lavado Tradicional,8.0,1200.0,1938,Rainforest Alliance
+FIN-8540,Chinchiná,Colombia,Honey,3.0,11000.0,1818,Fairtrade
+FIN-8541,Manizales,Borbon Rosado,Honey,5.5,4800.0,1879,Orgánico
+FIN-8542,Manizales,Borbon Rosado,Lavado Tradicional,1.5,4800.0,1277,Fairtrade
+FIN-8543,Manizales,Cenicafé 1,Natural,3.0,4800.0,1289,Orgánico
+FIN-8544,Palestina,Geisha,Natural,3.0,4800.0,1494,Fairtrade
+FIN-8545,Palestina,Castillo,Honey,3.0,1200.0,1693,Ninguna
+FIN-8546,Anserma,Castillo,Honey,5.5,2500.0,1969,Rainforest Alliance
+FIN-8547,Chinchiná,Colombia,Natural,3.0,7500.0,1742,Rainforest Alliance
+FIN-8548,Palestina,Cenicafé 1,Natural,3.0,4800.0,1294,Rainforest Alliance
+FIN-8549,Anserma,Geisha,Lavado Tradicional,12.0,2500.0,1528,Fairtrade
+FIN-8550,Anserma,Colombia,Honey,5.5,2500.0,1380,Rainforest Alliance
+FIN-8551,Risaralda,Cenicafé 1,Natural,5.5,,1746,Fairtrade
+FIN-8552,Risaralda,Castillo,Lavado Tradicional,12.0,,2023,Ninguna
+FIN-8553,Risaralda,Colombia,Lavado Tradicional,12.0,11000.0,1579,Orgánico
+FIN-8554,Palestina,Castillo,Lavado Tradicional,5.5,7500.0,1621,Orgánico
+FIN-8555,Risaralda,Castillo,Honey,18.5,4800.0,1736,Ninguna
+FIN-8556,Risaralda,Cenicafé 1,Honey,8.0,7500.0,1841,Fairtrade
+FIN-8557,Risaralda,Castillo,Lavado Tradicional,3.0,1200.0,1654,Ninguna
+FIN-8558,Manizales,Cenicafé 1,Natural,3.0,1200.0,1896,Ninguna
+FIN-8559,Palestina,Borbon Rosado,Honey,1.5,4800.0,1824,Ninguna
+FIN-8560,Chinchiná,Cenicafé 1,Honey,5.5,11000.0,1274,Fairtrade
+FIN-8561,Anserma,Castillo,Natural,12.0,2500.0,1349,Ninguna
+FIN-8562,Palestina,Colombia,Honey,12.0,11000.0,1823,Fairtrade
+FIN-8563,Risaralda,Castillo,Lavado Tradicional,1.5,16000.0,1464,Rainforest Alliance
+FIN-8564,Manizales,Colombia,Honey,8.0,4800.0,1338,Fairtrade
+FIN-8565,Manizales,Colombia,Natural,3.0,2500.0,1761,Orgánico
+FIN-8566,Chinchiná,Borbon Rosado,Natural,18.5,7500.0,1672,Ninguna
+FIN-8567,Palestina,Colombia,Natural,3.0,4800.0,1419,Ninguna
+FIN-8568,Risaralda,Cenicafé 1,Natural,3.0,4800.0,1737,Orgánico
+FIN-8569,Palestina,Castillo,Lavado Tradicional,8.0,1200.0,1449,Orgánico
+FIN-8570,Risaralda,Borbon Rosado,Natural,8.0,1200.0,1658,Fairtrade
+FIN-8571,Manizales,Cenicafé 1,Honey,3.0,4800.0,1908,Ninguna
+FIN-8572,Risaralda,Cenicafé 1,Natural,3.0,,1422,Orgánico
+FIN-8573,Palestina,Cenicafé 1,Honey,1.5,4800.0,1865,Rainforest Alliance
+FIN-8574,Anserma,Castillo,Lavado Tradicional,8.0,7500.0,1460,Ninguna
+FIN-8575,Risaralda,Castillo,Honey,1.5,2500.0,1787,Fairtrade
+FIN-8576,Palestina,Cenicafé 1,Honey,18.5,2500.0,1570,Fairtrade
+FIN-8577,Palestina,Borbon Rosado,Lavado Tradicional,5.5,4800.0,1332,Fairtrade
+FIN-8578,Anserma,Geisha,Lavado Tradicional,3.0,4800.0,1532,Fairtrade
+FIN-8579,Anserma,Colombia,Natural,5.5,7500.0,2031,Rainforest Alliance
+FIN-8580,Anserma,Castillo,Natural,,1200.0,1726,Fairtrade
+FIN-8581,Risaralda,Borbon Rosado,Lavado Tradicional,8.0,2500.0,1861,Rainforest Alliance
+FIN-8582,Palestina,Colombia,Lavado Tradicional,5.5,2500.0,1692,Fairtrade
+FIN-8583,Chinchiná,Colombia,Honey,8.0,1200.0,1686,Rainforest Alliance
+FIN-8584,Manizales,Geisha,Lavado Tradicional,5.5,2500.0,1774,Fairtrade
+FIN-8585,Anserma,Geisha,Natural,18.5,4800.0,1351,Orgánico
+FIN-8586,Anserma,Cenicafé 1,Natural,5.5,1200.0,1389,Orgánico
+FIN-8587,Palestina,Castillo,Lavado Tradicional,8.0,4800.0,1371,Ninguna
+FIN-8588,Palestina,Borbon Rosado,Lavado Tradicional,3.0,7500.0,1711,Rainforest Alliance
+FIN-8589,Palestina,Borbon Rosado,Natural,5.5,2500.0,2001,Orgánico
+FIN-8590,Anserma,Geisha,Honey,12.0,7500.0,2033,Orgánico
+FIN-8591,Anserma,Geisha,Lavado Tradicional,5.5,2500.0,1368,Ninguna
+FIN-8592,Manizales,Borbon Rosado,Lavado Tradicional,1.5,7500.0,1659,Rainforest Alliance
+FIN-8593,Risaralda,Castillo,Honey,12.0,,1497,Ninguna
+FIN-8594,Risaralda,Colombia,Natural,3.0,11000.0,1285,Rainforest Alliance
+FIN-8595,Anserma,Geisha,Honey,1.5,4800.0,1752,Fairtrade
+FIN-8596,Palestina,Cenicafé 1,Honey,5.5,7500.0,2048,Rainforest Alliance
+FIN-8597,Risaralda,Cenicafé 1,Lavado Tradicional,3.0,11000.0,1427,Ninguna
+FIN-8598,Manizales,Castillo,Honey,1.5,1200.0,1422,Orgánico
+FIN-8599,Anserma,Cenicafé 1,Lavado Tradicional,5.5,4800.0,1753,Rainforest Alliance
+FIN-8600,Chinchiná,Geisha,Honey,8.0,2500.0,1802,Ninguna
+FIN-8601,Risaralda,Castillo,Natural,3.0,4800.0,1527,Fairtrade
+FIN-8602,Manizales,Geisha,Lavado Tradicional,,4800.0,2021,Ninguna
+FIN-8603,Manizales,Borbon Rosado,Lavado Tradicional,,11000.0,1833,Ninguna
+FIN-8604,Chinchiná,Castillo,Natural,1.5,7500.0,1819,Orgánico
+FIN-8605,Anserma,Castillo,Lavado Tradicional,8.0,7500.0,1577,Rainforest Alliance
+FIN-8606,Chinchiná,Geisha,Lavado Tradicional,1.5,4800.0,1372,Ninguna
+FIN-8607,Palestina,Cenicafé 1,Honey,3.0,1200.0,1966,Rainforest Alliance
+FIN-8608,Palestina,Castillo,Lavado Tradicional,8.0,16000.0,1338,Ninguna
+FIN-8609,Risaralda,Borbon Rosado,Honey,5.5,2500.0,1865,Orgánico
+FIN-8610,Palestina,Castillo,Honey,8.0,7500.0,1709,Fairtrade
+FIN-8611,Palestina,Cenicafé 1,Natural,1.5,2500.0,1721,Rainforest Alliance
+FIN-8612,Chinchiná,Borbon Rosado,Lavado Tradicional,3.0,11000.0,1498,Ninguna
+FIN-8613,Risaralda,Castillo,Honey,8.0,7500.0,1969,Orgánico
+FIN-8614,Anserma,Geisha,Honey,3.0,4800.0,1726,Rainforest Alliance
+FIN-8615,Palestina,Castillo,Honey,18.5,4800.0,1891,Rainforest Alliance
+FIN-8616,Risaralda,Geisha,Natural,5.5,4800.0,1770,Ninguna
+FIN-8617,Palestina,Geisha,Honey,3.0,1200.0,1361,Ninguna
+FIN-8618,Anserma,Cenicafé 1,Honey,3.0,4800.0,1653,Rainforest Alliance
+FIN-8619,Anserma,Borbon Rosado,Honey,3.0,2500.0,1458,Rainforest Alliance
+FIN-8620,Anserma,Castillo,Honey,,,1463,Rainforest Alliance
+FIN-8621,Anserma,Cenicafé 1,Lavado Tradicional,1.5,4800.0,1371,Ninguna
+FIN-8622,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,4800.0,1459,Rainforest Alliance
+FIN-8623,Risaralda,Colombia,Lavado Tradicional,1.5,4800.0,1676,Fairtrade
+FIN-8624,Chinchiná,Cenicafé 1,Natural,8.0,4800.0,1261,Orgánico
+FIN-8625,Palestina,Castillo,Natural,1.5,11000.0,1608,Rainforest Alliance
+FIN-8626,Manizales,Geisha,Natural,1.5,11000.0,1531,Rainforest Alliance
+FIN-8627,Chinchiná,Castillo,Natural,1.5,,1385,Orgánico
+FIN-8628,Manizales,Borbon Rosado,Honey,18.5,4800.0,1833,Fairtrade
+FIN-8629,Anserma,Castillo,Lavado Tradicional,8.0,11000.0,1682,Ninguna
+FIN-8630,Palestina,Cenicafé 1,Natural,3.0,2500.0,1460,Fairtrade
+FIN-8631,Anserma,Borbon Rosado,Lavado Tradicional,1.5,2500.0,1883,Fairtrade
+FIN-8632,Palestina,Colombia,Honey,1.5,2500.0,2006,Ninguna
+FIN-8633,Chinchiná,Cenicafé 1,Honey,8.0,4800.0,1549,Rainforest Alliance
+FIN-8634,Palestina,Castillo,Honey,3.0,7500.0,1723,Rainforest Alliance
+FIN-8635,Manizales,Castillo,Lavado Tradicional,1.5,7500.0,1509,Fairtrade
+FIN-8636,Risaralda,Cenicafé 1,Natural,5.5,7500.0,1431,Fairtrade
+FIN-8637,Risaralda,Borbon Rosado,Lavado Tradicional,5.5,1200.0,1540,Ninguna
+FIN-8638,Anserma,Colombia,Honey,1.5,2500.0,1806,Ninguna
+FIN-8639,Palestina,Cenicafé 1,Natural,1.5,7500.0,1742,Rainforest Alliance
+FIN-8640,Risaralda,Geisha,Lavado Tradicional,3.0,11000.0,1398,Orgánico
+FIN-8641,Palestina,Colombia,Lavado Tradicional,8.0,2500.0,1284,Ninguna
+FIN-8642,Palestina,Castillo,Honey,3.0,4800.0,1975,Fairtrade
+FIN-8643,Chinchiná,Geisha,Lavado Tradicional,3.0,,1580,Ninguna
+FIN-8644,Anserma,Castillo,Honey,1.5,2500.0,1548,Fairtrade
+FIN-8645,Palestina,Colombia,Honey,1.5,2500.0,1868,Fairtrade
+FIN-8646,Chinchiná,Borbon Rosado,Honey,8.0,4800.0,1468,Orgánico
+FIN-8647,Chinchiná,Castillo,Lavado Tradicional,,7500.0,1345,Ninguna
+FIN-8648,Manizales,Castillo,Honey,5.5,4800.0,1994,Orgánico
+FIN-8649,Chinchiná,Castillo,Lavado Tradicional,,4800.0,1759,Fairtrade
+FIN-8650,Chinchiná,Cenicafé 1,Honey,18.5,7500.0,1298,Fairtrade
+FIN-8651,Risaralda,Cenicafé 1,Honey,5.5,16000.0,1858,Rainforest Alliance
+FIN-8652,Risaralda,Castillo,Lavado Tradicional,5.5,1200.0,1685,Rainforest Alliance
+FIN-8653,Palestina,Cenicafé 1,Honey,12.0,7500.0,1488,Ninguna
+FIN-8654,Risaralda,Borbon Rosado,Lavado Tradicional,1.5,1200.0,1577,Orgánico
+FIN-8655,Palestina,Castillo,Honey,3.0,4800.0,1983,Ninguna
+FIN-8656,Palestina,Cenicafé 1,Lavado Tradicional,18.5,1200.0,2003,Ninguna
+FIN-8657,Chinchiná,Cenicafé 1,Lavado Tradicional,12.0,7500.0,1751,Ninguna
+FIN-8658,Anserma,Colombia,Natural,5.5,7500.0,1931,Orgánico
+FIN-8659,Chinchiná,Geisha,Natural,1.5,1200.0,1933,Ninguna
+FIN-8660,Manizales,Colombia,Honey,8.0,7500.0,1407,Orgánico
+FIN-8661,Manizales,Geisha,Lavado Tradicional,1.5,2500.0,1540,Fairtrade
+FIN-8662,Anserma,Geisha,Natural,,2500.0,1460,Orgánico
+FIN-8663,Anserma,Borbon Rosado,Natural,8.0,4800.0,1748,Ninguna
+FIN-8664,Risaralda,Geisha,Lavado Tradicional,3.0,2500.0,1500,Ninguna
+FIN-8665,Palestina,Cenicafé 1,Lavado Tradicional,3.0,4800.0,1978,Fairtrade
+FIN-8666,Anserma,Colombia,Natural,5.5,4800.0,1294,Fairtrade
+FIN-8667,Chinchiná,Colombia,Lavado Tradicional,18.5,1200.0,1716,Ninguna
+FIN-8668,Palestina,Geisha,Honey,3.0,7500.0,1679,Rainforest Alliance
+FIN-8669,Manizales,Borbon Rosado,Lavado Tradicional,1.5,11000.0,1732,Ninguna
+FIN-8670,Chinchiná,Cenicafé 1,Honey,1.5,1200.0,1986,Rainforest Alliance
+FIN-8671,Palestina,Cenicafé 1,Natural,3.0,2500.0,1269,Ninguna
+FIN-8672,Manizales,Cenicafé 1,Lavado Tradicional,8.0,7500.0,1281,Fairtrade
+FIN-8673,Manizales,Cenicafé 1,Lavado Tradicional,3.0,2500.0,1498,Ninguna
+FIN-8674,Risaralda,Geisha,Honey,5.5,4800.0,1299,Fairtrade
+FIN-8675,Risaralda,Colombia,Honey,3.0,4800.0,1611,Fairtrade
+FIN-8676,Risaralda,Colombia,Lavado Tradicional,1.5,2500.0,1278,Ninguna
+FIN-8677,Anserma,Geisha,Natural,1.5,2500.0,1466,Ninguna
+FIN-8678,Anserma,Castillo,Lavado Tradicional,5.5,2500.0,1250,Rainforest Alliance
+FIN-8679,Manizales,Cenicafé 1,Lavado Tradicional,1.5,2500.0,1416,Fairtrade
+FIN-8680,Manizales,Cenicafé 1,Lavado Tradicional,12.0,7500.0,1508,Rainforest Alliance
+FIN-8681,Manizales,Geisha,Natural,3.0,1200.0,1521,Ninguna
+FIN-8682,Risaralda,Cenicafé 1,Natural,3.0,2500.0,1388,Fairtrade
+FIN-8683,Anserma,Colombia,Natural,1.5,11000.0,1660,Ninguna
+FIN-8684,Manizales,Borbon Rosado,Honey,,4800.0,1661,Orgánico
+FIN-8685,Risaralda,Geisha,Honey,12.0,7500.0,1917,Fairtrade
+FIN-8686,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,4800.0,1465,Fairtrade
+FIN-8687,Palestina,Colombia,Lavado Tradicional,8.0,1200.0,1539,Rainforest Alliance
+FIN-8688,Palestina,Colombia,Honey,,4800.0,1931,Rainforest Alliance
+FIN-8689,Palestina,Cenicafé 1,Natural,8.0,11000.0,1348,Ninguna
+FIN-8690,Manizales,Colombia,Lavado Tradicional,3.0,7500.0,1730,Fairtrade
+FIN-8691,Manizales,Colombia,Lavado Tradicional,3.0,4800.0,1666,Orgánico
+FIN-8692,Risaralda,Colombia,Natural,3.0,16000.0,1950,Orgánico
+FIN-8693,Chinchiná,Castillo,Natural,3.0,1200.0,1450,Rainforest Alliance
+FIN-8694,Risaralda,Geisha,Lavado Tradicional,5.5,7500.0,1811,Rainforest Alliance
+FIN-8695,Risaralda,Colombia,Natural,3.0,4800.0,1960,Ninguna
+FIN-8696,Manizales,Borbon Rosado,Natural,5.5,1200.0,1849,Ninguna
+FIN-8697,Risaralda,Geisha,Honey,3.0,11000.0,1499,Rainforest Alliance
+FIN-8698,Manizales,Colombia,Honey,5.5,1200.0,1577,Orgánico
+FIN-8699,Anserma,Colombia,Natural,1.5,2500.0,1394,Ninguna
+FIN-8700,Anserma,Borbon Rosado,Lavado Tradicional,5.5,4800.0,1328,Ninguna
+FIN-8701,Risaralda,Borbon Rosado,Lavado Tradicional,3.0,,1923,Rainforest Alliance
+FIN-8702,Manizales,Geisha,Honey,5.5,7500.0,1325,Orgánico
+FIN-8703,Anserma,Castillo,Honey,1.5,2500.0,1886,Rainforest Alliance
+FIN-8704,Chinchiná,Castillo,Natural,8.0,,1314,Rainforest Alliance
+FIN-8705,Anserma,Cenicafé 1,Lavado Tradicional,12.0,1200.0,1371,Rainforest Alliance
+FIN-8706,Risaralda,Cenicafé 1,Natural,5.5,1200.0,1538,Fairtrade
+FIN-8707,Palestina,Castillo,Natural,1.5,1200.0,1878,Rainforest Alliance
+FIN-8708,Anserma,Geisha,Honey,,4800.0,1695,Rainforest Alliance
+FIN-8709,Risaralda,Castillo,Natural,1.5,1200.0,1336,Orgánico
+FIN-8710,Manizales,Borbon Rosado,Honey,12.0,7500.0,2031,Rainforest Alliance
+FIN-8711,Chinchiná,Cenicafé 1,Natural,5.5,1200.0,1394,Orgánico
+FIN-8712,Anserma,Borbon Rosado,Honey,8.0,2500.0,2017,Rainforest Alliance
+FIN-8713,Palestina,Borbon Rosado,Lavado Tradicional,3.0,4800.0,1706,Orgánico
+FIN-8714,Palestina,Geisha,Honey,5.5,7500.0,1765,Ninguna
+FIN-8715,Chinchiná,Geisha,Honey,5.5,4800.0,1996,Rainforest Alliance
+FIN-8716,Risaralda,Borbon Rosado,Lavado Tradicional,3.0,7500.0,1888,Rainforest Alliance
+FIN-8717,Chinchiná,Cenicafé 1,Honey,5.5,11000.0,1339,Rainforest Alliance
+FIN-8718,Chinchiná,Castillo,Lavado Tradicional,8.0,4800.0,1760,Fairtrade
+FIN-8719,Chinchiná,Castillo,Honey,3.0,1200.0,1803,Rainforest Alliance
+FIN-8720,Risaralda,Castillo,Honey,8.0,11000.0,1950,Ninguna
+FIN-8721,Anserma,Borbon Rosado,Honey,1.5,7500.0,1356,Orgánico
+FIN-8722,Chinchiná,Cenicafé 1,Lavado Tradicional,1.5,11000.0,1333,Fairtrade
+FIN-8723,Anserma,Colombia,Honey,3.0,1200.0,1523,Rainforest Alliance
+FIN-8724,Anserma,Borbon Rosado,Honey,12.0,2500.0,1684,Fairtrade
+FIN-8725,Palestina,Geisha,Honey,5.5,1200.0,1384,Rainforest Alliance
+FIN-8726,Manizales,Colombia,Honey,3.0,7500.0,1362,Ninguna
+FIN-8727,Palestina,Castillo,Natural,3.0,2500.0,1511,Ninguna
+FIN-8728,Anserma,Geisha,Honey,8.0,1200.0,1790,Orgánico
+FIN-8729,Risaralda,Cenicafé 1,Natural,3.0,1200.0,1926,Ninguna
+FIN-8730,Anserma,Colombia,Natural,3.0,2500.0,1519,Fairtrade
+FIN-8731,Risaralda,Colombia,Natural,1.5,2500.0,1631,Fairtrade
+FIN-8732,Palestina,Borbon Rosado,Honey,8.0,2500.0,1316,Rainforest Alliance
+FIN-8733,Anserma,Castillo,Natural,1.5,2500.0,1692,Fairtrade
+FIN-8734,Palestina,Colombia,Honey,8.0,1200.0,1834,Rainforest Alliance
+FIN-8735,Manizales,Cenicafé 1,Natural,5.5,7500.0,1963,Ninguna
+FIN-8736,Anserma,Geisha,Lavado Tradicional,1.5,7500.0,1396,Fairtrade
+FIN-8737,Chinchiná,Borbon Rosado,Lavado Tradicional,3.0,4800.0,1713,Rainforest Alliance
+FIN-8738,Risaralda,Cenicafé 1,Honey,5.5,7500.0,1510,Ninguna
+FIN-8739,Anserma,Borbon Rosado,Natural,1.5,16000.0,1934,Orgánico
+FIN-8740,Chinchiná,Castillo,Lavado Tradicional,1.5,4800.0,1458,Fairtrade
+FIN-8741,Manizales,Borbon Rosado,Honey,5.5,1200.0,1779,Orgánico
+FIN-8742,Palestina,Cenicafé 1,Honey,12.0,4800.0,1611,Ninguna
+FIN-8743,Palestina,Castillo,Lavado Tradicional,1.5,7500.0,1711,Rainforest Alliance
+FIN-8744,Chinchiná,Borbon Rosado,Lavado Tradicional,5.5,11000.0,1876,Fairtrade
+FIN-8745,Palestina,Borbon Rosado,Honey,18.5,7500.0,1972,Ninguna
+FIN-8746,Chinchiná,Borbon Rosado,Lavado Tradicional,3.0,1200.0,1669,Orgánico
+FIN-8747,Manizales,Borbon Rosado,Honey,5.5,2500.0,1976,Fairtrade
+FIN-8748,Manizales,Borbon Rosado,Lavado Tradicional,,1200.0,1289,Fairtrade
+FIN-8749,Risaralda,Geisha,Natural,18.5,,1354,Fairtrade
+FIN-8750,Anserma,Geisha,Natural,,4800.0,1701,Orgánico
+FIN-8751,Anserma,Borbon Rosado,Natural,,2500.0,1971,Rainforest Alliance
+FIN-8752,Anserma,Castillo,Natural,18.5,11000.0,1700,Rainforest Alliance
+FIN-8753,Anserma,Geisha,Honey,3.0,1200.0,1855,Rainforest Alliance
+FIN-8754,Manizales,Geisha,Honey,1.5,4800.0,1683,Ninguna
+FIN-8755,Palestina,Colombia,Natural,5.5,11000.0,1394,Rainforest Alliance
+FIN-8756,Palestina,Castillo,Natural,1.5,11000.0,1792,Rainforest Alliance
+FIN-8757,Risaralda,Borbon Rosado,Lavado Tradicional,3.0,7500.0,1642,Fairtrade
+FIN-8758,Palestina,Cenicafé 1,Natural,5.5,1200.0,1572,Rainforest Alliance
+FIN-8759,Manizales,Cenicafé 1,Honey,1.5,2500.0,1743,Fairtrade
+FIN-8760,Manizales,Borbon Rosado,Natural,3.0,4800.0,1436,Ninguna
+FIN-8761,Risaralda,Geisha,Honey,8.0,2500.0,1376,Fairtrade
+FIN-8762,Chinchiná,Borbon Rosado,Honey,3.0,7500.0,1504,Rainforest Alliance
+FIN-8763,Anserma,Geisha,Honey,3.0,4800.0,1292,Orgánico
+FIN-8764,Manizales,Castillo,Lavado Tradicional,18.5,7500.0,1920,Rainforest Alliance
+FIN-8765,Palestina,Cenicafé 1,Natural,12.0,4800.0,1698,Fairtrade
+FIN-8766,Manizales,Colombia,Lavado Tradicional,1.5,4800.0,1793,Fairtrade
+FIN-8767,Manizales,Geisha,Honey,12.0,,1748,Fairtrade
+FIN-8768,Anserma,Castillo,Natural,5.5,1200.0,1727,Rainforest Alliance
+FIN-8769,Chinchiná,Colombia,Natural,5.5,4800.0,1729,Ninguna
+FIN-8770,Manizales,Cenicafé 1,Natural,8.0,4800.0,1731,Fairtrade
+FIN-8771,Manizales,Cenicafé 1,Lavado Tradicional,,1200.0,1921,Fairtrade
+FIN-8772,Palestina,Geisha,Natural,1.5,7500.0,1732,Fairtrade
+FIN-8773,Chinchiná,Cenicafé 1,Natural,3.0,4800.0,1775,Ninguna
+FIN-8774,Manizales,Castillo,Honey,1.5,11000.0,1962,Fairtrade
+FIN-8775,Manizales,Cenicafé 1,Honey,3.0,2500.0,1426,Orgánico
+FIN-8776,Manizales,Geisha,Lavado Tradicional,3.0,4800.0,1618,Ninguna
+FIN-8777,Risaralda,Cenicafé 1,Honey,18.5,4800.0,1716,Fairtrade
+FIN-8778,Palestina,Cenicafé 1,Honey,,4800.0,1289,Ninguna
+FIN-8779,Chinchiná,Borbon Rosado,Lavado Tradicional,,2500.0,1877,Rainforest Alliance
+FIN-8780,Manizales,Cenicafé 1,Honey,8.0,2500.0,1708,Orgánico
+FIN-8781,Manizales,Cenicafé 1,Honey,5.5,4800.0,1529,Ninguna
+FIN-8782,Palestina,Geisha,Honey,12.0,1200.0,1794,Rainforest Alliance
+FIN-8783,Chinchiná,Borbon Rosado,Honey,,2500.0,1860,Fairtrade
+FIN-8784,Palestina,Colombia,Honey,3.0,16000.0,1363,Fairtrade
+FIN-8785,Anserma,Cenicafé 1,Honey,5.5,1200.0,1696,Fairtrade
+FIN-8786,Risaralda,Castillo,Natural,8.0,7500.0,1287,Fairtrade
+FIN-8787,Risaralda,Geisha,Lavado Tradicional,5.5,1200.0,1335,Ninguna
+FIN-8788,Palestina,Colombia,Natural,5.5,2500.0,2003,Fairtrade
+FIN-8789,Risaralda,Geisha,Lavado Tradicional,1.5,7500.0,1280,Ninguna
+FIN-8790,Chinchiná,Geisha,Honey,1.5,7500.0,1547,Fairtrade
+FIN-8791,Palestina,Cenicafé 1,Natural,3.0,11000.0,1917,Ninguna
+FIN-8792,Manizales,Colombia,Honey,3.0,,1784,Fairtrade
+FIN-8793,Manizales,Cenicafé 1,Natural,8.0,4800.0,1385,Rainforest Alliance
+FIN-8794,Chinchiná,Geisha,Natural,12.0,1200.0,1720,Orgánico
+FIN-8795,Manizales,Geisha,Lavado Tradicional,1.5,4800.0,1700,Fairtrade
+FIN-8796,Anserma,Borbon Rosado,Honey,3.0,2500.0,1734,Orgánico
+FIN-8797,Anserma,Borbon Rosado,Lavado Tradicional,3.0,7500.0,1261,Fairtrade
+FIN-8798,Palestina,Geisha,Lavado Tradicional,3.0,1200.0,1800,Ninguna
+FIN-8799,Chinchiná,Colombia,Natural,5.5,2500.0,1776,Ninguna
+FIN-8800,Palestina,Castillo,Lavado Tradicional,3.0,2500.0,1655,Rainforest Alliance
+FIN-8801,Chinchiná,Geisha,Natural,12.0,7500.0,1558,Rainforest Alliance
+FIN-8802,Palestina,Cenicafé 1,Honey,8.0,,1913,Ninguna
+FIN-8803,Manizales,Cenicafé 1,Honey,5.5,2500.0,1591,Fairtrade
+FIN-8804,Chinchiná,Castillo,Lavado Tradicional,1.5,4800.0,1823,Fairtrade
+FIN-8805,Manizales,Colombia,Natural,8.0,7500.0,1285,Rainforest Alliance
+FIN-8806,Manizales,Geisha,Honey,1.5,2500.0,1495,Orgánico
+FIN-8807,Manizales,Castillo,Lavado Tradicional,5.5,11000.0,1774,Fairtrade
+FIN-8808,Manizales,Castillo,Natural,12.0,1200.0,1911,Ninguna
+FIN-8809,Chinchiná,Geisha,Honey,3.0,4800.0,1926,Rainforest Alliance
+FIN-8810,Manizales,Castillo,Natural,1.5,7500.0,1840,Rainforest Alliance
+FIN-8811,Manizales,Colombia,Natural,1.5,2500.0,1499,Ninguna
+FIN-8812,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,7500.0,1628,Rainforest Alliance
+FIN-8813,Risaralda,Geisha,Honey,8.0,7500.0,1518,Rainforest Alliance
+FIN-8814,Manizales,Cenicafé 1,Lavado Tradicional,3.0,2500.0,1864,Ninguna
+FIN-8815,Manizales,Borbon Rosado,Honey,12.0,1200.0,1641,Ninguna
+FIN-8816,Risaralda,Colombia,Lavado Tradicional,3.0,16000.0,1569,Orgánico
+FIN-8817,Anserma,Cenicafé 1,Natural,8.0,2500.0,1524,Ninguna
+FIN-8818,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,2500.0,1881,Ninguna
+FIN-8819,Manizales,Castillo,Honey,1.5,2500.0,1320,Ninguna
+FIN-8820,Chinchiná,Cenicafé 1,Honey,1.5,4800.0,1742,Fairtrade
+FIN-8821,Chinchiná,Borbon Rosado,Natural,8.0,7500.0,1801,Ninguna
+FIN-8822,Anserma,Geisha,Honey,3.0,16000.0,2023,Orgánico
+FIN-8823,Manizales,Cenicafé 1,Lavado Tradicional,5.5,4800.0,1572,Ninguna
+FIN-8824,Anserma,Colombia,Honey,12.0,1200.0,1612,Ninguna
+FIN-8825,Risaralda,Borbon Rosado,Natural,5.5,11000.0,1608,Rainforest Alliance
+FIN-8826,Manizales,Geisha,Lavado Tradicional,1.5,7500.0,1372,Fairtrade
+FIN-8827,Risaralda,Geisha,Natural,12.0,7500.0,1929,Rainforest Alliance
+FIN-8828,Chinchiná,Borbon Rosado,Natural,8.0,2500.0,1915,Rainforest Alliance
+FIN-8829,Palestina,Cenicafé 1,Lavado Tradicional,,7500.0,1775,Ninguna
+FIN-8830,Chinchiná,Borbon Rosado,Honey,12.0,1200.0,1267,Fairtrade
+FIN-8831,Anserma,Borbon Rosado,Honey,8.0,2500.0,1894,Rainforest Alliance
+FIN-8832,Anserma,Geisha,Lavado Tradicional,,2500.0,1787,Rainforest Alliance
+FIN-8833,Risaralda,Geisha,Lavado Tradicional,12.0,7500.0,1695,Fairtrade
+FIN-8834,Chinchiná,Castillo,Honey,5.5,4800.0,1633,Ninguna
+FIN-8835,Chinchiná,Geisha,Lavado Tradicional,5.5,2500.0,1868,Fairtrade
+FIN-8836,Anserma,Geisha,Natural,18.5,2500.0,1850,Rainforest Alliance
+FIN-8837,Manizales,Castillo,Natural,1.5,2500.0,1864,Orgánico
+FIN-8838,Manizales,Castillo,Natural,3.0,2500.0,1468,Ninguna
+FIN-8839,Anserma,Castillo,Honey,12.0,2500.0,1725,Orgánico
+FIN-8840,Anserma,Borbon Rosado,Natural,8.0,2500.0,1578,Rainforest Alliance
+FIN-8841,Manizales,Colombia,Lavado Tradicional,3.0,4800.0,1597,Ninguna
+FIN-8842,Anserma,Borbon Rosado,Honey,1.5,2500.0,1404,Ninguna
+FIN-8843,Anserma,Colombia,Natural,5.5,2500.0,1527,Rainforest Alliance
+FIN-8844,Chinchiná,Borbon Rosado,Lavado Tradicional,3.0,2500.0,1341,Ninguna
+FIN-8845,Risaralda,Geisha,Natural,3.0,4800.0,1628,Orgánico
+FIN-8846,Palestina,Geisha,Lavado Tradicional,1.5,1200.0,1445,Rainforest Alliance
+FIN-8847,Manizales,Cenicafé 1,Honey,5.5,1200.0,1528,Fairtrade
+FIN-8848,Palestina,Borbon Rosado,Honey,12.0,7500.0,1276,Rainforest Alliance
+FIN-8849,Anserma,Castillo,Honey,12.0,4800.0,1303,Fairtrade
+FIN-8850,Chinchiná,Castillo,Lavado Tradicional,5.5,2500.0,1457,Fairtrade
+FIN-8851,Manizales,Castillo,Honey,3.0,4800.0,1431,Fairtrade
+FIN-8852,Anserma,Borbon Rosado,Natural,5.5,4800.0,1297,Rainforest Alliance
+FIN-8853,Chinchiná,Cenicafé 1,Honey,8.0,1200.0,1814,Fairtrade
+FIN-8854,Anserma,Cenicafé 1,Honey,8.0,1200.0,1392,Ninguna
+FIN-8855,Chinchiná,Castillo,Honey,3.0,1200.0,1368,Rainforest Alliance
+FIN-8856,Anserma,Castillo,Lavado Tradicional,3.0,2500.0,1711,Ninguna
+FIN-8857,Manizales,Colombia,Honey,8.0,2500.0,1270,Rainforest Alliance
+FIN-8858,Chinchiná,Borbon Rosado,Lavado Tradicional,1.5,7500.0,1417,Ninguna
+FIN-8859,Anserma,Colombia,Natural,1.5,7500.0,1676,Ninguna
+FIN-8860,Risaralda,Castillo,Honey,12.0,,1853,Rainforest Alliance
+FIN-8861,Risaralda,Castillo,Honey,12.0,2500.0,1672,Rainforest Alliance
+FIN-8862,Palestina,Borbon Rosado,Natural,1.5,,1498,Rainforest Alliance
+FIN-8863,Anserma,Geisha,Lavado Tradicional,5.5,7500.0,1785,Fairtrade
+FIN-8864,Anserma,Borbon Rosado,Honey,1.5,1200.0,1912,Ninguna
+FIN-8865,Manizales,Borbon Rosado,Lavado Tradicional,3.0,,1433,Fairtrade
+FIN-8866,Anserma,Geisha,Natural,3.0,7500.0,2047,Fairtrade
+FIN-8867,Chinchiná,Castillo,Lavado Tradicional,5.5,16000.0,2013,Rainforest Alliance
+FIN-8868,Manizales,Colombia,Lavado Tradicional,1.5,11000.0,1331,Ninguna
+FIN-8869,Palestina,Borbon Rosado,Natural,5.5,7500.0,1267,Fairtrade
+FIN-8870,Anserma,Borbon Rosado,Natural,1.5,4800.0,1678,Rainforest Alliance
+FIN-8871,Chinchiná,Borbon Rosado,Natural,5.5,,1977,Ninguna
+FIN-8872,Chinchiná,Castillo,Honey,3.0,4800.0,2027,Fairtrade
+FIN-8873,Manizales,Castillo,Honey,3.0,1200.0,1878,Orgánico
+FIN-8874,Anserma,Castillo,Lavado Tradicional,3.0,7500.0,1966,Ninguna
+FIN-8875,Manizales,Cenicafé 1,Lavado Tradicional,3.0,4800.0,1336,Orgánico
+FIN-8876,Anserma,Cenicafé 1,Honey,8.0,2500.0,1980,Fairtrade
+FIN-8877,Risaralda,Colombia,Honey,5.5,1200.0,1495,Ninguna
+FIN-8878,Palestina,Cenicafé 1,Honey,1.5,16000.0,1501,Orgánico
+FIN-8879,Palestina,Borbon Rosado,Honey,3.0,11000.0,1716,Ninguna
+FIN-8880,Risaralda,Colombia,Natural,8.0,7500.0,1408,Ninguna
+FIN-8881,Anserma,Cenicafé 1,Natural,1.5,1200.0,1289,Rainforest Alliance
+FIN-8882,Anserma,Borbon Rosado,Natural,5.5,4800.0,2031,Ninguna
+FIN-8883,Anserma,Cenicafé 1,Lavado Tradicional,18.5,4800.0,1709,Fairtrade
+FIN-8884,Chinchiná,Cenicafé 1,Honey,3.0,2500.0,1928,Fairtrade
+FIN-8885,Chinchiná,Geisha,Honey,5.5,2500.0,1255,Rainforest Alliance
+FIN-8886,Palestina,Borbon Rosado,Lavado Tradicional,12.0,7500.0,1615,Ninguna
+FIN-8887,Chinchiná,Colombia,Honey,5.5,2500.0,1404,Orgánico
+FIN-8888,Chinchiná,Borbon Rosado,Natural,1.5,4800.0,1435,Rainforest Alliance
+FIN-8889,Anserma,Colombia,Honey,3.0,2500.0,1775,Rainforest Alliance
+FIN-8890,Anserma,Cenicafé 1,Natural,3.0,7500.0,1776,Rainforest Alliance
+FIN-8891,Manizales,Geisha,Honey,1.5,1200.0,1957,Fairtrade
+FIN-8892,Chinchiná,Borbon Rosado,Natural,3.0,1200.0,1386,Rainforest Alliance
+FIN-8893,Anserma,Borbon Rosado,Honey,8.0,2500.0,1360,Fairtrade
+FIN-8894,Manizales,Geisha,Natural,5.5,16000.0,1806,Fairtrade
+FIN-8895,Chinchiná,Geisha,Honey,1.5,7500.0,1706,Rainforest Alliance
+FIN-8896,Manizales,Cenicafé 1,Honey,1.5,1200.0,1257,Orgánico
+FIN-8897,Manizales,Castillo,Natural,1.5,16000.0,1465,Rainforest Alliance
+FIN-8898,Risaralda,Borbon Rosado,Lavado Tradicional,12.0,2500.0,1446,Fairtrade
+FIN-8899,Palestina,Borbon Rosado,Natural,1.5,4800.0,1499,Rainforest Alliance
+FIN-8900,Chinchiná,Geisha,Lavado Tradicional,18.5,2500.0,1489,Rainforest Alliance
+FIN-8901,Chinchiná,Geisha,Honey,1.5,11000.0,1433,Orgánico
+FIN-8902,Anserma,Castillo,Natural,8.0,11000.0,1367,Rainforest Alliance
+FIN-8903,Palestina,Borbon Rosado,Honey,3.0,4800.0,1325,Ninguna
+FIN-8904,Palestina,Cenicafé 1,Natural,,4800.0,1329,Fairtrade
+FIN-8905,Anserma,Colombia,Lavado Tradicional,3.0,7500.0,1523,Orgánico
+FIN-8906,Risaralda,Geisha,Lavado Tradicional,3.0,4800.0,1570,Ninguna
+FIN-8907,Palestina,Castillo,Natural,,7500.0,1965,Rainforest Alliance
+FIN-8908,Chinchiná,Castillo,Lavado Tradicional,12.0,11000.0,2050,Rainforest Alliance
+FIN-8909,Manizales,Borbon Rosado,Natural,5.5,4800.0,1623,Ninguna
+FIN-8910,Chinchiná,Colombia,Natural,5.5,7500.0,1768,Fairtrade
+FIN-8911,Palestina,Borbon Rosado,Natural,18.5,2500.0,1643,Ninguna
+FIN-8912,Anserma,Castillo,Natural,5.5,16000.0,1885,Rainforest Alliance
+FIN-8913,Chinchiná,Colombia,Lavado Tradicional,3.0,1200.0,1639,Orgánico
+FIN-8914,Risaralda,Colombia,Honey,3.0,7500.0,1548,Orgánico
+FIN-8915,Anserma,Cenicafé 1,Natural,1.5,4800.0,1575,Fairtrade
+FIN-8916,Chinchiná,Castillo,Natural,5.5,4800.0,1411,Fairtrade
+FIN-8917,Risaralda,Geisha,Natural,1.5,,1346,Ninguna
+FIN-8918,Anserma,Castillo,Natural,1.5,4800.0,1863,Ninguna
+FIN-8919,Manizales,Borbon Rosado,Lavado Tradicional,5.5,,1332,Orgánico
+FIN-8920,Chinchiná,Geisha,Natural,12.0,1200.0,1816,Fairtrade
+FIN-8921,Anserma,Castillo,Lavado Tradicional,12.0,4800.0,1309,Ninguna
+FIN-8922,Palestina,Castillo,Honey,5.5,4800.0,1293,Ninguna
+FIN-8923,Anserma,Colombia,Natural,5.5,4800.0,1827,Fairtrade
+FIN-8924,Palestina,Cenicafé 1,Honey,1.5,1200.0,1609,Rainforest Alliance
+FIN-8925,Anserma,Castillo,Lavado Tradicional,12.0,16000.0,1276,Rainforest Alliance
+FIN-8926,Manizales,Geisha,Honey,3.0,2500.0,1602,Ninguna
+FIN-8927,Manizales,Borbon Rosado,Natural,8.0,7500.0,1533,Ninguna
+FIN-8928,Chinchiná,Geisha,Natural,3.0,2500.0,1765,Ninguna
+FIN-8929,Risaralda,Cenicafé 1,Natural,5.5,4800.0,1268,Rainforest Alliance
+FIN-8930,Chinchiná,Borbon Rosado,Natural,3.0,4800.0,1611,Fairtrade
+FIN-8931,Chinchiná,Colombia,Natural,1.5,16000.0,1618,Ninguna
+FIN-8932,Risaralda,Colombia,Natural,18.5,7500.0,1651,Ninguna
+FIN-8933,Manizales,Colombia,Lavado Tradicional,8.0,4800.0,1774,Rainforest Alliance
+FIN-8934,Manizales,Castillo,Natural,3.0,11000.0,1338,Ninguna
+FIN-8935,Anserma,Castillo,Honey,1.5,2500.0,1394,Ninguna
+FIN-8936,Risaralda,Borbon Rosado,Natural,1.5,2500.0,2028,Fairtrade
+FIN-8937,Manizales,Borbon Rosado,Honey,3.0,1200.0,1838,Rainforest Alliance
+FIN-8938,Risaralda,Geisha,Lavado Tradicional,3.0,4800.0,1944,Rainforest Alliance
+FIN-8939,Manizales,Geisha,Lavado Tradicional,8.0,4800.0,1338,Rainforest Alliance
+FIN-8940,Manizales,Cenicafé 1,Lavado Tradicional,5.5,1200.0,1612,Ninguna
+FIN-8941,Chinchiná,Cenicafé 1,Honey,3.0,2500.0,1851,Fairtrade
+FIN-8942,Anserma,Colombia,Lavado Tradicional,5.5,2500.0,1263,Fairtrade
+FIN-8943,Chinchiná,Borbon Rosado,Lavado Tradicional,8.0,11000.0,1660,Orgánico
+FIN-8944,Manizales,Geisha,Lavado Tradicional,5.5,,1313,Rainforest Alliance
+FIN-8945,Chinchiná,Cenicafé 1,Natural,1.5,2500.0,1390,Orgánico
+FIN-8946,Anserma,Colombia,Natural,1.5,1200.0,1955,Fairtrade
+FIN-8947,Chinchiná,Geisha,Lavado Tradicional,,11000.0,1615,Ninguna
+FIN-8948,Chinchiná,Colombia,Natural,3.0,1200.0,1891,Rainforest Alliance
+FIN-8949,Chinchiná,Geisha,Honey,3.0,2500.0,1276,Rainforest Alliance
+FIN-8950,Manizales,Colombia,Natural,1.5,2500.0,1839,Fairtrade
+FIN-8951,Anserma,Borbon Rosado,Honey,8.0,4800.0,1470,Fairtrade
+FIN-8952,Risaralda,Borbon Rosado,Lavado Tradicional,,2500.0,1859,Ninguna
+FIN-8953,Manizales,Borbon Rosado,Lavado Tradicional,5.5,16000.0,2038,Ninguna
+FIN-8954,Risaralda,Geisha,Lavado Tradicional,1.5,11000.0,1812,Rainforest Alliance
+FIN-8955,Chinchiná,Geisha,Honey,5.5,4800.0,1629,Rainforest Alliance
+FIN-8956,Palestina,Castillo,Lavado Tradicional,3.0,1200.0,1720,Fairtrade
+FIN-8957,Palestina,Geisha,Honey,3.0,4800.0,1838,Ninguna
+FIN-8958,Chinchiná,Castillo,Natural,8.0,1200.0,1566,Rainforest Alliance
+FIN-8959,Palestina,Borbon Rosado,Natural,5.5,2500.0,2013,Ninguna
+FIN-8960,Palestina,Colombia,Natural,8.0,7500.0,1541,Ninguna
+FIN-8961,Manizales,Cenicafé 1,Natural,3.0,4800.0,2050,Rainforest Alliance
+FIN-8962,Chinchiná,Colombia,Natural,,1200.0,1595,Fairtrade
+FIN-8963,Risaralda,Geisha,Honey,8.0,4800.0,1299,Orgánico
+FIN-8964,Manizales,Borbon Rosado,Honey,5.5,2500.0,1384,Rainforest Alliance
+FIN-8965,Risaralda,Geisha,Honey,3.0,7500.0,1779,Ninguna
+FIN-8966,Palestina,Cenicafé 1,Lavado Tradicional,3.0,1200.0,1991,Ninguna
+FIN-8967,Palestina,Castillo,Natural,3.0,2500.0,2050,Rainforest Alliance
+FIN-8968,Manizales,Cenicafé 1,Honey,5.5,1200.0,1570,Orgánico
+FIN-8969,Anserma,Colombia,Lavado Tradicional,1.5,2500.0,1955,Ninguna
+FIN-8970,Manizales,Borbon Rosado,Lavado Tradicional,5.5,2500.0,2021,Rainforest Alliance
+FIN-8971,Chinchiná,Borbon Rosado,Honey,1.5,1200.0,1260,Ninguna
+FIN-8972,Palestina,Cenicafé 1,Natural,5.5,4800.0,1818,Rainforest Alliance
+FIN-8973,Palestina,Cenicafé 1,Natural,1.5,11000.0,1684,Rainforest Alliance
+FIN-8974,Manizales,Castillo,Natural,3.0,4800.0,1436,Ninguna
+FIN-8975,Manizales,Geisha,Honey,12.0,,1911,Ninguna
+FIN-8976,Chinchiná,Borbon Rosado,Honey,8.0,16000.0,1527,Fairtrade
+FIN-8977,Risaralda,Cenicafé 1,Natural,,11000.0,1605,Fairtrade
+FIN-8978,Chinchiná,Geisha,Natural,1.5,2500.0,1628,Fairtrade
+FIN-8979,Manizales,Castillo,Natural,12.0,4800.0,1333,Ninguna
+FIN-8980,Manizales,Cenicafé 1,Lavado Tradicional,3.0,4800.0,1643,Orgánico
+FIN-8981,Palestina,Castillo,Natural,12.0,7500.0,1968,Fairtrade
+FIN-8982,Risaralda,Colombia,Honey,8.0,4800.0,2020,Fairtrade
+FIN-8983,Anserma,Borbon Rosado,Honey,8.0,11000.0,1684,Orgánico
+FIN-8984,Chinchiná,Geisha,Honey,3.0,4800.0,1660,Orgánico
+FIN-8985,Chinchiná,Geisha,Lavado Tradicional,12.0,1200.0,1780,Fairtrade
+FIN-8986,Anserma,Borbon Rosado,Lavado Tradicional,8.0,4800.0,1874,Fairtrade
+FIN-8987,Anserma,Castillo,Lavado Tradicional,3.0,2500.0,1583,Fairtrade
+FIN-8988,Anserma,Geisha,Lavado Tradicional,8.0,2500.0,1654,Fairtrade
+FIN-8989,Anserma,Geisha,Natural,1.5,7500.0,1513,Fairtrade
+FIN-8990,Palestina,Geisha,Honey,5.5,7500.0,1663,Fairtrade
+FIN-8991,Chinchiná,Geisha,Natural,3.0,2500.0,1448,Fairtrade
+FIN-8992,Anserma,Cenicafé 1,Lavado Tradicional,3.0,1200.0,1347,Fairtrade
+FIN-8993,Chinchiná,Castillo,Natural,3.0,2500.0,1508,Ninguna
+FIN-8994,Anserma,Castillo,Honey,1.5,4800.0,1702,Rainforest Alliance
+FIN-8995,Chinchiná,Cenicafé 1,Natural,5.5,1200.0,1297,Fairtrade
+FIN-8996,Anserma,Geisha,Natural,3.0,7500.0,1774,Rainforest Alliance
+FIN-8997,Palestina,Borbon Rosado,Natural,3.0,4800.0,1263,Rainforest Alliance
+FIN-8998,Anserma,Colombia,Natural,,1200.0,1395,Rainforest Alliance
+FIN-8999,Manizales,Cenicafé 1,Lavado Tradicional,8.0,4800.0,1283,Fairtrade
+FIN-9000,Palestina,Castillo,Honey,,2500.0,1387,Ninguna
+FIN-8141,Anserma,Borbon Rosado,Honey,3.0,4800.0,1516,Fairtrade
+FIN-8142,Manizales,Geisha,Natural,3.0,2500.0,1580,Ninguna
+FIN-8143,Anserma,Colombia,Natural,5.5,4800.0,1962,Ninguna
+FIN-8144,Chinchiná,Castillo,Honey,5.5,4800.0,1844,Orgánico
+FIN-8145,Palestina,Borbon Rosado,Natural,8.0,2500.0,1578,Orgánico
+FIN-8146,Palestina,Borbon Rosado,Lavado Tradicional,12.0,2500.0,1462,Ninguna
+FIN-8147,Chinchiná,Borbon Rosado,Honey,3.0,4800.0,1967,Ninguna
+FIN-8148,Manizales,Cenicafé 1,Natural,5.5,2500.0,1994,Ninguna
+FIN-8149,Manizales,Cenicafé 1,Honey,12.0,7500.0,1320,Fairtrade
+FIN-8150,Palestina,Cenicafé 1,Natural,5.5,4800.0,1833,Rainforest Alliance
+FIN-8151,Risaralda,Colombia,Natural,12.0,,1848,Rainforest Alliance
+FIN-8152,Anserma,Castillo,Lavado Tradicional,1.5,2500.0,1397,Ninguna
