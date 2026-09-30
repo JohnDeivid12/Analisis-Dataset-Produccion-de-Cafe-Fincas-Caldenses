@@ -34,8 +34,6 @@ git clone https://github.com/JohnDeivid12/Analisis-Dataset-Produccion-de-Cafe-Fi
 (datos) 
 ```
 
-> Reemplaza `TU_USUARIO` y `NOMBRE_DEL_REPOSITORIO` por los datos de tu repositorio.
-
 ### 2. Crear un entorno virtual
 
 El entorno virtual (`venv/`) aísla las librerías del proyecto. No se sube a GitHub porque está en el `.gitignore`, así que cada persona debe crearlo en su equipo.
